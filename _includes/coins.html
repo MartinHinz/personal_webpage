@@ -1,0 +1,112 @@
+---
+---
+{%if page.entry.type %}
+  {%if page.entry.type == 'incollection' %}
+    {% assign genre_string = "rft.genre=bookitem" %}
+    {% assign rft_val_fmt_string = "rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" %}
+  {% endif %}
+  {%if page.entry.type == 'book' %}
+    {% assign genre_string = "rft.genre=book" %}
+    {% assign rft_val_fmt_string = "rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" %}
+  {% endif %}
+  {%if page.entry.type == 'article' %}
+    {% assign genre_string = "rft.genre=article" %}
+    {% assign rft_val_fmt_string = "rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" %}
+  {% endif %}
+{% endif %}
+
+{%if page.entry.key %}
+  {% assign id_string = "rft_id={{ page.entry.key | cgi_escape }}" %}
+{% endif %}
+
+{%if page.entry.doi %}
+  {% assign id_string = "rft_id=info%3Adoi%2F{{ page.entry.doi | cgi_escape }}" %}
+{% endif %}
+
+{%if page.entry.title %}
+  {% assign atitle_string = "rft.atitle={{ page.entry.title | cgi_escape }}" %}
+{% endif %}
+{%if page.entry.booktitle %}
+  {% assign btitle_string = "rft.btitle={{ page.entry.booktitle | cgi_escape }}" %}
+{% endif %}
+{%if page.entry.shorttitle %}
+  {% assign s_title_string = "rft.stitle={{ page.entry.shorttitle | cgi_escape }}" %}
+{% endif %}
+
+{%if page.entry.journal %}
+  {% assign journal_string = "rft.jtitle={{ page.entry.journal | cgi_escape }}" %}
+{% endif %}
+{%if page.entry.issue %}
+  {% assign issue_string = "rft.issue={{ page.entry.issue | cgi_escape }}" %}
+{% endif %}
+
+{%if page.entry.volume %}
+  {% assign volume_string = "rft.volume={{ page.entry.volume | cgi_escape }}" %}
+{% endif %}
+
+{%if page.entry.pages %}
+  {% assign pages_string = "rft.pages={{ page.entry.pages | cgi_escape }}" %}
+{% endif %}
+{%if page.entry.year %}
+  {% assign date_string = "rft.date={{ page.entry.year | cgi_escape  }}" %}
+{% endif %}
+
+{%if page.entry.author_array %}
+{% assign authors = "" | split:"|"  %}
+{% for item in page.entry.author_array %}
+  {% assign this_author = "rft.au="|append: item.first|append: "%20"|append: item.last  %}
+  {% assign authors = authors| push: this_author %}
+{% endfor %}
+{% capture au_string %} {{ authors | join: "&amp;"}} {% endcapture %} 
+{% endif %}
+
+{%if page.entry.editor_array %}
+{% assign editors = "" | split:"|"  %}
+{% for item in page.entry.editor_array %}
+  {% assign this_editor = "rft.au="|append: item.first|append: "%20"|append: item.last  %}
+  {% assign editors = editors| push: this_editor %}
+{% endfor %}
+{% capture ed_string %} {{ editors | join: "&amp;"}} {% endcapture %} 
+{% endif %}
+
+{%if page.entry.issn %}
+  {% assign issn_string = "rft.issn={{ page.entry.issn }}" %}
+{% endif %}
+
+{% assign coins_string = "" | split:"|"  %}
+{% assign coins_string = coins_string |
+  push: 'url_ver=Z39.88-2004' |
+  push: 'ctx_ver=Z39.88-2004' |
+  push: 'rfr_id=info%3Asid%2Fzotero.org%3A2' |
+  push: id_string |
+  push: rft_val_fmt_string | 
+  push: genre_string | 
+  push: atitle_string |
+  push: btitle_string |
+  push: journal_string |
+  push: volume_string |
+  push: issue_string |
+  push: s_title_string |
+  push: au_string |
+  push: date_string |
+  push: issn_string
+%}
+
+{% assign coins_string_new = "" | split:"|"  %}
+{% for item in coins_string %}
+  {% unless item == null %}
+    {% assign coins_string_new = coins_string_new | push: item %}
+  {% endunless %}
+{% endfor%}
+
+<pre>
+{{ coins_string_new | join: "&amp;" }} 
+</pre>
+
+<span class='Z3988' title='{{ coins_string_new | join: "&amp;" }}'></span>
+
+{% raw %}
+{{ page.entry }}
+{% endraw %}
+
+

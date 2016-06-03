@@ -1,0 +1,18 @@
+name: Martin Hinz
+picture: martinhinz.png
+contexts:
+  - 
+    context_name: work
+    email: martin.hinz@ufg.uni-kiel.de      
+    web: http://www.ufg.uni-kiel.de/
+    address: | 
+      Institut für Ur- und Frühgeschichte  
+      Christian-Albrechts-Universität  
+      Johanna-Mestorf-Straße 2-6  
+      D - 24118 Kiel
+    phone: +49 (0) 431 880 2335
+  - 
+    context_name: private
+    email: mail@martinhinz.info
+    web: http://www.martinhinz.info
+    github: MartinHinz

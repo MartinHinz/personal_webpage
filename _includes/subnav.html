@@ -1,0 +1,68 @@
+{% assign menu_items = '' %}
+{% assign url_parts = page.url | remove_first: '/' | remove: 'index.html' | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% assign url_parts_first = url_parts | first %}
+{% assign len = url_parts_size | minus: 1 %}
+{% for i in url_parts limit: len %}
+  {% capture base_url %}{{ base_url | append: "/" | append: i }}{% endcapture %}
+{% endfor %}
+<!-- Get parent page -->
+{% capture parent_url %}{{ base_url | append: '/' }}{% endcapture %}
+{% for node in site.pages %}
+  {% if url_parts_size == 1 %}
+    {% if node.url contains url_parts_first %}
+      {% assign node_url_parts = node.url | remove_first: '/' | remove: 'index.html' | split: '/' %}
+      {% assign node_url_parts_size = node_url_parts | size %}
+      {% if node_url_parts_size == 1 %}
+        {% capture menu_items %}{{ menu_items | append: '|' | append: node.title | append: ',' | append: node.url | append: ',' | append: 'parent' }}{% endcapture %}
+      {% endif %}
+    {% endif %}
+  {% elsif node.url == parent_url %}
+    {% capture menu_items %}{{ menu_items | append: '|' | append: node.title | append: ',' | append: node.url | append: ',' | append: 'parent' }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+<!-- Get child pages -->
+{% for node in site.pages %}
+  {% assign node_url_parts = node.url | remove_first: '/' | remove: 'index.html' | split: '/' %}
+  {% if url_parts_size == 1 %}
+    {% if node.url contains url_parts_first %}
+      {% assign node_url_parts_size = node_url_parts | size %}
+      {% if node_url_parts_size == 2 %}
+        {% capture menu_items %}{{ menu_items | append: '|' | append: node.title | append: ',' | append: node.url }}{% endcapture %}
+      {% endif %}
+    {% endif %}
+  {% else %}
+    {% if node.url contains base_url %}
+      {% assign node_url_parts_size = node_url_parts | size %}
+      {% if url_parts_size > 1 %}
+        {% if url_parts_size == node_url_parts_size %}
+          {% capture menu_items %}{{ menu_items | append: '|' | append: node.title | append: ',' | append: node.url }}{% endcapture %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign output = menu_items | split: '|' %}
+{% assign output_size = output | size %}
+{% if output_size > 2 %}
+  <div class="subnav">
+    <ul>
+      {% assign count = '1' %}
+      {% for node in output %}
+        {% if count > '1' %}
+          {% assign item = node | split: ',' %}
+          {% assign item_size = item | size %}
+          {% assign node_url = item[1] %}
+          {% assign node_title = item[0] %}
+          {% if page.url == node_url%}
+            <li class="active {%if item_size == 3%}parent{%endif%}"><a href="{{ site.baseurl }}{{ node_url | remove: 'index.html' }}" class="active">{{ node_title }}</a></li>
+          {% else %}
+            <li {%if item_size == 3%}class="parent"{%endif%}><a href="{{ site.baseurl }}{{ node_url | remove: 'index.html' }}">{{ node_title }}</a></li>
+          {% endif %}
+        {% endif %}
+        {% capture count %}{{ count = count | plus: '1'}}{% endcapture %}
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}

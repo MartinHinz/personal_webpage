@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="23.334mm"
+   width="49.515mm"
+   version="1.1"
+   viewBox="0 0 175.44805 82.679688"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_test_1.svg">
+  <sodipodi:namedview
+     pagecolor="#ff8dff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1050"
+     id="namedview106"
+     showgrid="false"
+     inkscape:zoom="2.4109866"
+     inkscape:cx="107.80275"
+     inkscape:cy="96.638715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient65566"
+       y2="660.42"
+       gradientUnits="userSpaceOnUse"
+       x2="972.49"
+       y1="660.42"
+       x1="800.6">
+      <stop
+         id="stop65564"
+         stop-opacity="0"
+         offset="0" />
+      <stop
+         id="stop65758"
+         stop-opacity="0"
+         offset=".35295" />
+      <stop
+         id="stop65756"
+         offset=".54784" />
+      <stop
+         id="stop65562"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-303.28 -324.96)">
+    <g
+       id="g64130"
+       transform="translate(250.97 283.73)">
+      <path
+         id="path64134"
+         d="m957.27 619.08c-1.8914 3.8302-5.3518 6.4375-8.6094 9.0391-22.628 17.279-53.314 19.229-80.324 13.48-15.742-2.8162-30.055-13.279-46.555-11.336-10.723 0.79177-18.305 10.6-20.057 20.641-0.60888 3.1371-0.9714 6.3191-1.127 9.5156 0.15555 3.1965 0.51807 6.3785 1.127 9.5156 1.7517 10.04 9.3334 19.849 20.057 20.641 16.499 1.9434 30.813-8.5198 46.555-11.336 27.01-5.7484 57.696-3.7985 80.324 13.48 3.2575 2.6016 6.7179 5.2088 8.6094 9.0391 9.6853-11.404 14.982-26.371 15.221-41.34-0.23858-14.969-5.5354-29.936-15.221-41.34z"
+         transform="translate(-744.74 -577.85)"
+         fill="url(#linearGradient65566)" />
+    </g>
+    <rect
+       id="use65350"
+       style="color:#000000"
+       height=".17647"
+       width=".17647"
+       y="360.65"
+       x="303.39"
+       opacity=".023529" />
+    <rect
+       id="use65352"
+       style="color:#000000"
+       height=".41176"
+       width=".41176"
+       y="368.04"
+       x="303.28"
+       opacity=".054902" />
+    <rect
+       id="use65354"
+       style="color:#000000"
+       height="2.2941"
+       width="2.2941"
+       y="344.6"
+       x="309.83"
+       opacity=".30588" />
+    <rect
+       id="use65356"
+       style="color:#000000"
+       height="5.3824"
+       width="5.3824"
+       y="350.55"
+       x="308.29"
+       opacity=".71765" />
+    <rect
+       id="use65358"
+       style="color:#000000"
+       height="6.7353"
+       width="6.7353"
+       y="357.37"
+       x="307.61"
+       opacity=".89804" />
+    <rect
+       id="use65360"
+       style="color:#000000"
+       height="7.0294"
+       width="7.0294"
+       y="364.73"
+       x="307.47"
+       opacity=".93725" />
+    <rect
+       id="use65362"
+       style="color:#000000"
+       height="6.2353"
+       width="6.2353"
+       y="372.62"
+       x="307.86"
+       opacity=".83137" />
+    <rect
+       id="use65364"
+       style="color:#000000"
+       height="4.1471"
+       width="4.1471"
+       y="381.17"
+       x="308.91"
+       opacity=".55294" />
+    <rect
+       id="use65366"
+       style="color:#000000"
+       height=".64706"
+       width=".64706"
+       y="390.42"
+       x="310.66"
+       opacity=".086275" />
+    <rect
+       id="use65368"
+       style="color:#000000"
+       height="2.3529"
+       width="2.3529"
+       y="337.07"
+       x="317.3"
+       opacity=".31373" />
+    <rect
+       id="use65370"
+       style="color:#000000"
+       height="7.3529"
+       width="7.3529"
+       y="342.07"
+       x="314.8"
+       opacity=".98039" />
+    <rect
+       id="use65372"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="314.73" />
+    <rect
+       id="use65374"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="314.73" />
+    <rect
+       id="use65376"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="314.73" />
+    <rect
+       id="use65378"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="314.73" />
+    <rect
+       id="use65380"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="379.49"
+       x="314.73" />
+    <rect
+       id="use65382"
+       style="color:#000000"
+       height="5.7059"
+       width="5.7059"
+       y="387.89"
+       x="315.63"
+       opacity=".76078" />
+    <rect
+       id="use65384"
+       style="color:#000000"
+       height="5.0294"
+       width="5.0294"
+       y="335.73"
+       x="323.47"
+       opacity=".67059" />
+    <rect
+       id="use65386"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="341.99"
+       x="322.23" />
+    <rect
+       id="use65388"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="322.23" />
+    <rect
+       id="use65390"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="322.23" />
+    <rect
+       id="use65392"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="322.23" />
+    <rect
+       id="use65394"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="322.23" />
+    <rect
+       id="use65396"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="379.49"
+       x="322.23" />
+    <rect
+       id="use65398"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="386.99"
+       x="322.23" />
+    <rect
+       id="use65400"
+       style="color:#000000"
+       height="5.5"
+       width="5.5"
+       y="335.49"
+       x="330.73"
+       opacity=".73333" />
+    <rect
+       id="use65402"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="341.99"
+       x="329.73" />
+    <rect
+       id="use65404"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="329.73" />
+    <rect
+       id="use65406"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="329.73" />
+    <rect
+       id="use65408"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="329.73" />
+    <rect
+       id="use65410"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="329.73" />
+    <rect
+       id="use65412"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="379.49"
+       x="329.73" />
+    <rect
+       id="use65414"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="386.99"
+       x="329.73" />
+    <rect
+       id="use65416"
+       style="color:#000000"
+       height="4.7059"
+       width="4.7059"
+       y="335.89"
+       x="338.63"
+       opacity=".62745" />
+    <rect
+       id="use65418"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="341.99"
+       x="337.23" />
+    <rect
+       id="use65420"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="337.23" />
+    <rect
+       id="use65422"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="337.23" />
+    <rect
+       id="use65424"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="337.23" />
+    <rect
+       id="use65426"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="337.23" />
+    <rect
+       id="use65428"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="379.49"
+       x="337.23" />
+    <rect
+       id="use65430"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="386.99"
+       x="337.23" />
+    <rect
+       id="use65432"
+       style="color:#000000"
+       height="3.0294"
+       width="3.0294"
+       y="336.73"
+       x="346.97"
+       opacity=".40392" />
+    <rect
+       id="use65434"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="341.99"
+       x="344.73" />
+    <rect
+       id="use65436"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="344.73" />
+    <rect
+       id="use65438"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="344.73" />
+    <rect
+       id="use65440"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="344.73" />
+    <rect
+       id="use65442"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="344.73" />
+    <rect
+       id="use65444"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="379.49"
+       x="344.73" />
+    <rect
+       id="use65446"
+       style="color:#000000"
+       height="6.5294"
+       width="6.5294"
+       y="387.48"
+       x="345.22"
+       opacity=".87059" />
+    <rect
+       id="use65448"
+       style="color:#000000"
+       height=".88235"
+       width=".88235"
+       y="337.8"
+       x="355.54"
+       opacity=".11765" />
+    <rect
+       id="use65450"
+       style="color:#000000"
+       height="7.1176"
+       width="7.1176"
+       y="342.18"
+       x="352.42"
+       opacity=".94902" />
+    <rect
+       id="use65452"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="352.23" />
+    <rect
+       id="use65454"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="352.23" />
+    <rect
+       id="use65456"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="352.23" />
+    <rect
+       id="use65458"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="352.23" />
+    <rect
+       id="use65460"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="379.49"
+       x="352.23" />
+    <rect
+       id="use65462"
+       style="color:#000000"
+       height="4.0588"
+       width="4.0588"
+       y="388.71"
+       x="353.95"
+       opacity=".54118" />
+    <rect
+       id="use65464"
+       style="color:#000000"
+       height="4.9412"
+       width="4.9412"
+       y="343.27"
+       x="361.01"
+       opacity=".65882" />
+    <rect
+       id="use65466"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="359.73" />
+    <rect
+       id="use65468"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="359.73" />
+    <rect
+       id="use65470"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="359.73" />
+    <rect
+       id="use65472"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="359.73" />
+    <rect
+       id="use65474"
+       style="color:#000000"
+       height="7.4118"
+       width="7.4118"
+       y="379.54"
+       x="359.78"
+       opacity=".98824" />
+    <rect
+       id="use65476"
+       style="color:#000000"
+       height="1.5"
+       width="1.5"
+       y="389.99"
+       x="362.73"
+       opacity=".2" />
+    <rect
+       id="use65478"
+       style="color:#000000"
+       height="2.7941"
+       width="2.7941"
+       y="344.35"
+       x="369.58"
+       opacity=".37255" />
+    <rect
+       id="use65480"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="349.49"
+       x="367.23" />
+    <rect
+       id="use65482"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="367.23" />
+    <rect
+       id="use65484"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="367.23" />
+    <rect
+       id="use65486"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="367.23" />
+    <rect
+       id="use65488"
+       style="color:#000000"
+       height="6.1176"
+       width="6.1176"
+       y="380.18"
+       x="367.92"
+       opacity=".81569" />
+    <rect
+       id="use65490"
+       style="color:#000000"
+       height=".058824"
+       width=".058824"
+       y="390.71"
+       x="370.95"
+       opacity=".0078431" />
+    <rect
+       id="use65492"
+       style="color:#000000"
+       height="1.3235"
+       width="1.3235"
+       y="345.08"
+       x="377.82"
+       opacity=".17647" />
+    <rect
+       id="use65494"
+       style="color:#000000"
+       height="7.4706"
+       width="7.4706"
+       y="349.51"
+       x="374.75"
+       opacity=".99608" />
+    <rect
+       id="use65496"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="374.73" />
+    <rect
+       id="use65498"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="374.73" />
+    <rect
+       id="use65500"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="374.73" />
+    <rect
+       id="use65502"
+       style="color:#000000"
+       height="4.7941"
+       width="4.7941"
+       y="380.85"
+       x="376.08"
+       opacity=".63922" />
+    <rect
+       id="use65504"
+       style="color:#000000"
+       height=".29412"
+       width=".29412"
+       y="345.6"
+       x="385.83"
+       opacity=".039216" />
+    <rect
+       id="use65506"
+       style="color:#000000"
+       height="6.8824"
+       width="6.8824"
+       y="349.8"
+       x="382.54"
+       opacity=".91765" />
+    <rect
+       id="use65508"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="382.23" />
+    <rect
+       id="use65510"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="382.23" />
+    <rect
+       id="use65512"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="382.23" />
+    <rect
+       id="use65514"
+       style="color:#000000"
+       height="3.8235"
+       width="3.8235"
+       y="381.33"
+       x="384.07"
+       opacity=".50980" />
+    <rect
+       id="use65516"
+       style="color:#000000"
+       height="6.2941"
+       width="6.2941"
+       y="350.1"
+       x="390.33"
+       opacity=".83922" />
+    <rect
+       id="use65518"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="389.73" />
+    <rect
+       id="use65520"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="389.73" />
+    <rect
+       id="use65522"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="389.73" />
+    <rect
+       id="use65524"
+       style="color:#000000"
+       height="3.2353"
+       width="3.2353"
+       y="381.62"
+       x="391.86"
+       opacity=".43137" />
+    <rect
+       id="use65526"
+       style="color:#000000"
+       height="6.0882"
+       width="6.0882"
+       y="350.2"
+       x="397.94"
+       opacity=".81176" />
+    <rect
+       id="use65528"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="356.99"
+       x="397.23" />
+    <rect
+       id="use65530"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="364.49"
+       x="397.23" />
+    <rect
+       id="use65532"
+       style="color:#000000"
+       height="7.5"
+       width="7.5"
+       y="371.99"
+       x="397.23" />
+    <rect
+       id="use65534"
+       style="color:#000000"
+       height="3.0294"
+       width="3.0294"
+       y="381.73"
+       x="399.47"
+       opacity=".40392" />
+  </g>
+</svg>

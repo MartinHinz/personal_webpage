@@ -1,0 +1,31 @@
+<p><img src="{{ site.baseurl }}/images/{{ site.data.author.picture }}" alt="{{site.data.author.name}}" height="200px" width="200px"></p>
+
+<p><b>{{site.data.author.name}}</b></p>
+
+{% for context in site.data.author.contexts %}
+<p>
+  <em>{{ context.context_name }}:</em>
+  <br>
+  {% if context.address %}
+  {% icon fa-map-marker %} <span markdown="1">{{context.address}}</span>
+  <br>
+  {% endif %}
+
+  {% if context.email %}
+  {% icon fa-envelope %} <a href="mailto:{{context.email}}">{{context.email}}</a>
+  <br>
+  {% endif %}
+
+  {% if context.web %}
+  {% icon fa-external-link %}  <a href="{{context.web}}">{{context.web}}</a>
+  <br>
+  {% endif %}
+
+  {% if context.phone %}
+  {% icon fa-phone %} {{context.phone}}
+  <br>
+  {% endif %}
+</p>
+{% endfor %}
+
+  {% include social-media-list.html %}

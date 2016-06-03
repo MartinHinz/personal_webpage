@@ -1,0 +1,44 @@
+---
+layout: default
+title: Publication Details
+---
+<html>
+ 
+<style>
+div.pdfimg{
+float: right;
+border: 1px solid #BFBFBF;
+box-shadow: 2px 2px 3px #aaaaaa;
+margin: 10px;
+}
+</style>
+
+
+<h3><center>{{ page.entry.title }}</center></h3>
+<h4><center>{{ page.entry.author }}</center></h4>
+<hr>
+
+{% if page.entry.key %}
+<div class="pdfimg">
+<a href="/pdf/{{ page.entry.key }}.pdf">
+	<img src="/pdf/{{ page.entry.key }}.png" width="300">
+</a>
+</div>
+
+{% endif %}
+
+{% if page.entry.abstract %}
+  {{ page.entry.abstract }}
+{% endif %}
+
+<div style="clear:both"></div>
+
+<hr>
+
+{% raw %}
+{% highlight tex %}
+{{ page.entry.bibtex }}
+{% endhighlight %}
+{% endraw %}
+
+

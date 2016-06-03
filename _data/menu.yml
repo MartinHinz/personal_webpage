@@ -1,0 +1,11 @@
+primary:
+  - title: Projects
+    url: /projects/
+  - title: Publications
+    url: /publications/
+  - title: Blog
+    url: /blog/
+  - title: Screencasts
+    url: /screencasts/
+  - title: About
+    url: /about/
