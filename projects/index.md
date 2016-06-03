@@ -8,7 +8,7 @@ permalink: /projects/
 
 Within this DFG project we investigate the first farmers of northern central Europe. 
 
-Find more details on the [project website](www.monument.ufg.uni-kiel.de).
+Find more details on the [project website](http://www.monument.ufg.uni-kiel.de).
 
 ## RADON
 
