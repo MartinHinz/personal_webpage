@@ -58,3 +58,5 @@ Find more at the [screencast section](/screencasts/)...
 {% include personal_details.html %}
 </div>
 {% endcontentfor %}
+
+
