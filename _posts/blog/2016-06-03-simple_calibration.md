@@ -12,7 +12,7 @@ archaeologists has to do. I will not go into the details of the details
 why calibration is necessary here (maybe in another post), but I want to
 give in this post and in some follow ups hands on instruction how a
 calibration can be archieved using R. This series will be published also
-at the [ISAAKiel-Repository](https://www.github.com/ISSAKiel).
+at the [ISAAKiel-Repository](https://www.github.com/ISAAKiel).
 
 The short story
 ---------------
