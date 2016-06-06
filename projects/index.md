@@ -28,7 +28,7 @@ Together with the team of the [Initiative for Statistical Analysis in Archaeolog
 
 ## Eythra
 
-A web database for the Saxonian Archaeological Department.
+From 1993 – 2000 a LBK and SBK settlement area measuring 30 ha were excavated in the course of coal opencast mining. It is one of the largest excavated early neolithic settlement sites of central Europe. I developed a web database for this project to cope with the enourmous amount of archaeological data from this excavation and the complexity of analizing them. You may find more information on the project on [its web presence](http://www.archaeologie.sachsen.de/2382.htm).
 
 ## MetDB
 
