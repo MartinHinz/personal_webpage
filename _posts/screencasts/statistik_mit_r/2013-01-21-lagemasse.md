@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/pz
 ---
 
 Arithmetisches Mittel, Median und Quantile als Maß für die Lage eines Datensatzes auf einer Variable.
-
+<!--more-->
 {{page.video}}

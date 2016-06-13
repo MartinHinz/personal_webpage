@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/wa
 ---
 
 Eher der Vollständigkeit halber auch Tortendiagramme, denn auch wenn sie in R möglich sind, ist dies ein eher zu vermeidender Diagrammtyp.
-
+<!--more-->
 {{page.video}}

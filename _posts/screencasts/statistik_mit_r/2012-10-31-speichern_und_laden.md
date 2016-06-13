@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/QB
 ---
 
 Wie kriege ich Daten nach R hinein? Und wie kriege ich sie wieder heraus?
-
+<!--more-->
 {{page.video}}

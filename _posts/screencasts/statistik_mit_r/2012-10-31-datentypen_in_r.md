@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/pQ
 ---
 
 Was sind Skalare, Vektoren, Matrizen, Datenrahmen? Was sind Integer und logische Werte in R?
-
+<!--more-->
 {{page.video}}

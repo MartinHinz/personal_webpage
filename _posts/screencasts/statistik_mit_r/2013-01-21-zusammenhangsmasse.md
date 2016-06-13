@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/Lw
 ---
 
 Diese Episode behandelt das Bestimmen der Stärke von Zusammenhängen auf nominalem Datenniveau: Yules Q, phi und Cramers V.
-
+<!--more-->
 {{page.video}}

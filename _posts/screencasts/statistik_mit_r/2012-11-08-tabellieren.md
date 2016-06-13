@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/w4
 ---
 
 In dieser Episode geht es um die einfachste Form der Darstellung komplexer Daten: Die Tabelle.
-
+<!--more-->
 {{page.video}}

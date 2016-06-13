@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/GX
 ---
 
 Erst mit einem Editor ist die Arbeit mit R richtig angenehm. Diese Episode zeigt, wie gedit und Tinn-R als Editoren für R eingesetzt werden können.
-
+<!--more-->
 {{page.video}}

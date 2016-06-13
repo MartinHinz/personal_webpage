@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" frameborder="0" allowfullscreen="" src="
 ---
 
 Als erstes ein Video, das den Umgang mit räumlichen Daten beschreibt.
-
+<!--more-->
 {{page.video}}

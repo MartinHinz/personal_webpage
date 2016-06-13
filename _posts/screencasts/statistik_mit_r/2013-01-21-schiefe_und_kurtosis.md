@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/YK
 ---
 
 Zur Abrundung der Deskriptiven Statistik noch zwei Maße für die Form von Verteilungen: Schiefe und Wölbung (Kurtosis) von Verteilungen.
-
+<!--more-->
 {{page.video}}

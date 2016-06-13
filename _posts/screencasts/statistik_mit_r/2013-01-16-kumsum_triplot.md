@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/nI
 ---
 
 Diese Episode rundet die Reihe über Darstellende Statistik mit 2 interessanten Varianten ab.
-
+<!--more-->
 {{page.video}}

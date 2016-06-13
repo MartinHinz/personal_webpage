@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/Bg
 ---
 
 Sinn, Nutzen und Verwendung von Variablen
-
+<!--more-->
 {{page.video}}

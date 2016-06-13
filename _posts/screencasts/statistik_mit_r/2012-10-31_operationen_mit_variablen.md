@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/5B
 ---
 
 Was kann man nun mit Variablen in R tun? Wie kann man auf einzelne Elemente zugreifen?
-
+<!--more-->
 {{page.video}}

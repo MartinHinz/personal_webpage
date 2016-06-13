@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/yW
 ---
 
 Die häufig bessere Alternative zu Torten, die aber auch andere Vorteile mitbringt.
-
+<!--more-->
 {{page.video}}

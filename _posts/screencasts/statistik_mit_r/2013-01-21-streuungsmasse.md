@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/EL
 ---
 
 Spannweite, Interquartilsabstand, Varianz, Standardabweichung und Variationskoeffizient: Maße für die Variabilität innerhalb eines Datensatzes.
-
+<!--more-->
 {{page.video}}

@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/7b
 ---
 
 In diesem zugegeben etwas langen Video werden die Grundlagen der Analyse von Korrelation und Regression in R erklärt.
-
+<!--more-->
 {{page.video}}

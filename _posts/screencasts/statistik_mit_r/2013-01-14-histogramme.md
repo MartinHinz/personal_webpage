@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" mce_src="http://www.youtube.com/embed/em
 ---
 
 In diesem Video geht es um Histogramme und ähnliche darstellende Verfahren, die einen Überblick über die Verteilung der Werte innerhalb einer Variable geben sollen.
-
+<!--more-->
 {{page.video}}

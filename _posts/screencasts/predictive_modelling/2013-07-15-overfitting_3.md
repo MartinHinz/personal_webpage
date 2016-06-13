@@ -8,5 +8,5 @@ video: <iframe width="560" height="315" src="//www.youtube.com/embed/2-1pX_KnO7U
 ---
 
 Das vierte Video zeigt, wie man mittels k-fold und bootstrapping Modellselektion betreiben kann, um Overfitting zu vermeiden.
-
+<!--more-->
 {{page.video}}
