@@ -14,6 +14,8 @@ give in this post and in some follow ups hands on instruction how a
 calibration can be archieved using R. This series will be published also
 at the [ISAAKiel-Repository](https://www.github.com/ISAAKiel).
 
+<!--more-->
+
 The short story
 ---------------
 
