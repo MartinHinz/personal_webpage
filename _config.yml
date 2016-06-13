@@ -14,6 +14,7 @@ academia_username:  MartinHinz
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 scholar:
   style: apa
