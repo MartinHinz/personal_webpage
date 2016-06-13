@@ -11,7 +11,7 @@ To get my new website finally online, I want to add something to the blog sectio
 
 To start I want to add a bit that helps to understand the relationship of several items within a collection of data. To be more specific, how can I explore the correlation of lets say pottery types or in this case animal species in the archaeological remains of different sites. Do specific combination occure regularily, so that it might be the case that they are functional related?
 
-
+<!--more-->
 
 As an example I will use the animal remains from sites of the so called Funnelbeaker Culture, on which I recently published an article that is still under review. The data mostly originate from the collection in an [article of Jan Steffens (2005)][@Steffens2005], but there are some additions from an [unpublished (?) master thesis of Peter Imperiale] [@Imperiale2001]. You may like to download [the data set](/assets/posts/{{ assetsPath }}tbk_animals.csv).
 
