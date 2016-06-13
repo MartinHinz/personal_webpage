@@ -24,7 +24,7 @@ To ease the analysis of <sup>14</sup>C dates I have developed and maintain a R p
 
 ## quantaar
 
-Together with the team of the [Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)](https://www.github.com/ISSAKiel) I am developing an R package that should make a collection of useful functions available for archaeologists. The package is currently not available at CRAN, but you may find it at [Github](https://www.github.com/ISSAKiel/quantaar).
+Together with the team of the [Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)](https://github.com/ISAAKiel) I am developing an R package that should make a collection of useful functions available for archaeologists. The package is currently not available at CRAN, but you may find it at [Github](https://www.github.com/ISSAKiel/quantaar).
 
 ## Eythra
 
