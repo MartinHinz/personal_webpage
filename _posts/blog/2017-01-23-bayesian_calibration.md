@@ -537,7 +537,7 @@ We can compare the resulting histogram with a calibration from Oxcal: looks simi
 
 ## See it run
 
-<video   autoplay autoresume><source src="/assets/posts/{{ assetsPath }}algorithm_live-.mp4" /><p>video of chunk algorithm_live</p></video>
+<video loop autoplay autoresume><source src="/assets/posts/{{ assetsPath }}algorithm_live-.mp4" /><p>video of chunk algorithm_live</p></video>
 
 # Adding stratigraphical informations
 
