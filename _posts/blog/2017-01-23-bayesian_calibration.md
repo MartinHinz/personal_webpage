@@ -470,7 +470,7 @@ The second proposal is 3.3539984 * 10<sup>-10</sup> times likely compared to the
 
 If the ratio is more than 1 (second proposal is better), we keep it.
 
-If it is less than one (second proposal is worse), we it with a probability equal to the ratio. Meaning, we roll a dice...
+If it is less than one (second proposal is worse), we keep it with a probability equal to the ratio. Meaning, we roll a dice...
 
 
 ```r
