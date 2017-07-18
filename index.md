@@ -6,7 +6,7 @@ title: Homepage
 
 # What is this all about?
 
-I am an archaeologist whose research focuses on prehistoric archaeology, currently on the Neolithic of northern Central Europe / South Scandinavia. I received my PhD from [Kiel University](http://www.uni-kiel.de) within the [Graduate School 'Human Development in Landscape'](http://www.gshdl.uni-kiel.de) in 2011. Since this year I am Assistent Coordinator at the [DFG Priority Programme 1400 'Early Monumentality and Social Differentiation'](http://www.monument.ufg.uni-kiel.de/).
+I am an archaeologist whose research focuses on prehistoric archaeology, currently on the Neolithic of northern Central Europe / South Scandinavia. I received my PhD from [Kiel University](http://www.uni-kiel.de) within the [Graduate School 'Human Development in Landscape'](http://www.gshdl.uni-kiel.de) in 2011. Until 2016 I was Assistent Coordinator at the [DFG Priority Programme 1400 'Early Monumentality and Social Differentiation'](http://www.monument.ufg.uni-kiel.de/). Since then I am working as postdoc in the [Project F1](https://www.sfb1266.uni-kiel.de/en/projects/cluster-f/f1-supra-regional-crises) of the [CRC1266 "Scales of Transformation"](https://www.sfb1266.uni-kiel.de).
 
 I regard quantitative methods as essential for archaeological research. That is why they represent a substantial aspect of my toolkit. This includes statistical analysis, spatial technologies (including GIS and spatial statistics), and dynamic modeling. You may find some [screencasts](/screencasts/) and other [posts](/blog/) regarding statistical method on this website.
 
