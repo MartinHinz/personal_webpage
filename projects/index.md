@@ -4,11 +4,9 @@ title: Past end present projects
 permalink: /projects/
 ---
 
-## SPP 1400 "Early Monumentality and Social Differenciation"
+## Project F1 of SFB 1266: Supra-regional crises: Abrupt climate change and responses of (multi-cultural) ancient societies in the western Mediterranean area and in Southern Central Europe around 4200 years BP
 
-Within this DFG project we investigate the first farmers of northern central Europe. 
-
-Find more details on the [project website](http://www.monument.ufg.uni-kiel.de).
+Currently I am employed as PostDoc within the project [F1](http://www.sfb1266.uni-kiel.de/en/projects/cluster-f/f1-supra-regional-crises) of the [SFB 1266](www.sfb1266.uni-kiel.de), dealing with the causal relation between the transition from Chalcolithic to Bronze Age (starting with iberia) and the [4.2ky event](https://en.wikipedia.org/wiki/4.2_kiloyear_event).
 
 ## RADON
 
@@ -18,11 +16,27 @@ While [RADON](http://radon.ufg.uni-kiel.de) is dedicated to radiocarbon dates of
 
 I am responsible for the data aquisition for RADON and have developed and maintain the web application for both portals.
 
-## Roxcal
+## ISAAK
 
-To ease the analysis of <sup>14</sup>C dates I have developed and maintain a R package that serves as interface between R and the programme OxCal, that have established as quasi standard for calibration in archaeological application. The package is currently not available at CRAN, but you may find it at [Github](https://www.github.com/MartinHinz/roxcal).
+I am member of the [Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)](https://github.com/ISAAKiel). We develop solutions and tools for computer applications in archaeology, mainly in R. I am actively involved in the following projects
 
-## quantaar
+### oxcAAR (formerly Roxcal)
+
+To ease the analysis of <sup>14</sup>C dates I have developed and maintain a R package that serves as interface between R and the programme OxCal, that have established as quasi standard for calibration in archaeological application. The package is currently not available at CRAN, but you may find it at [Github](https://github.com/ISAAKiel/oxcAAR).
+
+### mortAAR
+
+We have developed a package that calculates life tables from death records at archaeological sites. The package is also not yet on CRAN, but it will be published there very soon. Meanwile, find it at [Github](https://github.com/ISAAKiel/mortAAR).
+
+### aoristAAR
+
+This is a current project that should introduce [aoristic analysis for archaeology](http://dx.doi.org/10.11588/ai.2004.2.12685) as a R toolbox, with correction for overrepresentation due to overlapping time intervals. Currently the main function is already implemented and usable, but the package has to be polished before putting it to CRAN. Find it at [Github](https://github.com/ISAAKiel/aoristAAR).
+
+### calibrator
+
+This is a small command line tool, written in C, to do ^14^C calibration based on the algorithm used in [Bchron](https://github.com/andrewcparnell/Bchron).
+
+### quantaar
 
 Together with the team of the [Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)](https://github.com/ISAAKiel) I am developing an R package that should make a collection of useful functions available for archaeologists. The package is currently not available at CRAN, but you may find it at [Github](https://www.github.com/ISSAKiel/quantaar).
 
@@ -33,3 +47,9 @@ From 1993 – 2000 a LBK and SBK settlement area measuring 30 ha were excavated 
 ## MetDB
 
 The project 'Mobilities, entanglements and transformations in Neolithic societies on the Swiss Plateau (3900-3500 BC)' investigates the different phenomena of mobilities, social relationships and cultural entanglements as well as triggered cultural appropriations and transformations or rejections on the basis of ceramic and lithic material from a large number of dendrochronologically well dated swiss and Southern German wetland sites. To host the large amount of information regarding this material I set up a RoR based web application data base for the internal use in this project. More details on the project can be found at [its web presence](http://www.iaw.unibe.ch/forschung/abt_pa_ufg/mobilities_entanglements_and_transformations/index_ger.html).
+
+## SPP 1400 "Early Monumentality and Social Differenciation"
+
+Within this DFG project we investigated the first farmers of northern central Europe. 
+
+Find more details on the [project website](http://www.monument.ufg.uni-kiel.de).
