@@ -3,14 +3,14 @@ picture: martinhinz.png
 contexts:
   - 
     context_name: work
-    email: martin.hinz@ufg.uni-kiel.de      
-    web: http://www.ufg.uni-kiel.de/
+    email: martin.hinz@iaw.unibe.ch      
+    web: http://www.iaw.unibe.ch/
     address: | 
-      Institut für Ur- und Frühgeschichte  
-      Christian-Albrechts-Universität  
-      Johanna-Mestorf-Straße 2-6  
-      D - 24118 Kiel
-    phone: +49 (0) 431 880 2335
+      Institut für Archäologische Wissenschaften  
+      Universität Bern  
+      Mittelstrasse 43  
+      CH - 3012 Bern
+    phone: +41 31 631 58 26
   - 
     context_name: private
     email: mail@martinhinz.info
