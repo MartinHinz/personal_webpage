@@ -19,8 +19,8 @@ margin: 10px;
 <h4><center>{{ page.entry.author }}</center></h4>
 <hr>
 
-{% if page.entry.howpublished %}
-  <iframe src="{{ page.entry.howpublished }}"></iframe>
+{% if page.entry.preview %}
+  <iframe src="{{ page.entry.preview }}"></iframe>
 {% endif %}
  
 {% if page.entry.abstract %}
