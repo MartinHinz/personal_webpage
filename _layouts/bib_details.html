@@ -19,11 +19,10 @@ margin: 10px;
 <h4><center>{{ page.entry.author }}</center></h4>
 <hr>
 
-{% if page.entry.key %}
+{% if page.entry.preview %}
 <embed src="https://zenodo.org/record/2538016/files/hinz_from_hunting_2018.pdf" type="application/pdf" width="100%" height="600px" />
+  <iframe src="{{ page.entry.preview }}"></iframe>
 {% endif %}
-
- <iframe src="https://hcommons.org/deposits/objects/hc:22370/datastreams/CONTENT/content"></iframe>
  
 {% if page.entry.abstract %}
   {{ page.entry.abstract }}
