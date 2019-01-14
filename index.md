@@ -30,7 +30,7 @@ I am very interested in human-environmental interactions and the questions of po
 * Spatial Statistics/Simulations
 * Software development for archaeological applications
 * Reproducible research & Open science
-</div
+</div>
 <div class="pure-u-1 pure-u-lg-1-2 l-box" markdown="1">
 ## Education:
 
