@@ -57,7 +57,7 @@ Find more at the [blog section](/blog/)...
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-{% contentfor rightsidebar %}
+{% contentfor leftsidebar %}
 <div class="personal-details">
 {% include personal_details.html %}
 </div>
