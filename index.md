@@ -38,7 +38,7 @@ I am very interested in human-environmental interactions and the questions of po
   * Kiel University 
 * PhD in Archaeology, 2011
   * Kiel University
-</div
+</div>
 
 ## Latest Blog Post
 
