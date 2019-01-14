@@ -33,22 +33,6 @@ Find more at the [blog section](/blog/)...
 
 </div>
 
-<div class="pure-u-1 pure-u-lg-1-2 l-box" markdown="1">
-
-## Latest Screencasts
-
-{% assign screencasts = site.categories['screencast'] %}
-<ul class="post-list">
-{% for screencast in screencasts limit:3 %}
-  <li>
-    <span class="post-meta">Series: {{screencast.series}} | Episode: {{screencast.episode_nr}} - {{ screencast.date | date: "%b %-d, %Y" }}</span>
-      <a href="{{ screencast.url | prepend: site.baseurl }}">{{ screencast.title }}</a>
-      {{ screencast.excerpt }}
-  </li>
-{% endfor %}
-</ul>
-Find more at the [screencast section](/screencasts/)...
-</div>
 </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
