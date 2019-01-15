@@ -35,7 +35,7 @@ scholar:
   query: "@*"
 
 author:
-#  orcid: 0000-0002-9904-6548
+  orcid: 0000-0002-9904-6548
   twitter_username: martinusrihhi
   github_username:  MartinHinz
   academia_username:  MartinHinz
