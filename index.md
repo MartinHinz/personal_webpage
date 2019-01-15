@@ -31,13 +31,26 @@ I am very interested in human-environmental interactions and the questions of po
 * Software development for archaeological applications
 * Reproducible research & Open science
 </div>
+
 <div class="pure-u-1 pure-u-lg-1-2 l-box" markdown="1">
 ## Education:
 
 * MA in Archaeology, 2008
-  * Kiel University 
+  * Kiel University
 * PhD in Archaeology, 2011
   * Kiel University
+</div>
+</div>
+
+<div style='background:#F7F7F7;  width: 100vw;position: relative;margin-left: -50vw;  left: 50%;'  markdown="1" >
+<div class="pure-u-1 pure-u-md-1-2 l-box" markdown="1" style="margin-left: 25%;">
+
+## Publications (since 2014)
+{: #publications}
+
+{% bibliography --file 0000-0002-9904-6548 --group_by year --group_order descending -q @*[year>=2014] %}
+
+For full publication list visit [publications](/publications)
 </div>
 </div>
 
