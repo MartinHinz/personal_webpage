@@ -47,11 +47,17 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "customise.scss"
 ;
 
 .personal-details {
     text-align: right;
     display: block;
     margin-block-start: 0.67em;
+}
+
+ol.bibliography li {
+  list-style: none;
+  padding-bottom: 1em;
 }
