@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Martin Hinz
 ---
 
 <div class="odd_row about_me" markdown="1" >
