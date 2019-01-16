@@ -12,3 +12,65 @@
     cursor: pointer;
     border-radius: 5px;
 }
+
+.personal-details {
+    text-align: right;
+    display: block;
+    margin-block-start: 0.67em;
+}
+
+ol.bibliography li {
+  list-style: none;
+  padding-bottom: 1em;
+}
+
+div.even_row {
+/*  background:#F7F7F7;*/
+  background:lighten(desaturate($brand-color, 75%), 50%);
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  left: 50%;
+}
+
+.pure-g [class *="pure-u"] {
+  font-family: $base-font-family;
+}
+
+h1 {
+  font-family: $header-font-family;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h2 {
+  font-family: $header-font-family;
+}
+
+.site-title {
+  font-family: $header-font-family;
+  text-align: right;
+  font-size: 14pt;
+  float: right;
+}
+
+.site-subtitle {
+  font-family: $base-font-family;
+  font-size: 10pt;
+}
+
+.site-header {
+  padding: 10px 0;
+}
+
+.site-nav {
+  font-family: $header-font-family;
+}
+
+div.odd_row, div.even_row {
+  padding: 40px 0;
+}
+
+div.about_me {
+  padding-top: 0;
+}

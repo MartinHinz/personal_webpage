@@ -1,6 +1,6 @@
 # Site settings
 title: Martin Hinz
-subtitle: Archaeology // Quantification // Information Technology
+subtitle: Archaeology / Quantification / Information Technology
 
 email: mail@martinhinz.info
 
@@ -22,7 +22,6 @@ scholar:
 
   source: ./_bibliography
   bibliography: 0000-0002-9904-6548.bib
-#  bibliography_template: "{{reference}}"
   bibliography_template: bibtemplate
 
   replace_strings: true
@@ -35,7 +34,7 @@ scholar:
   query: "@*"
 
 author:
-  orcid: 0000-0002-9904-6548
+#  orcid: 0000-0002-9904-6548
   twitter_username: martinusrihhi
   github_username:  MartinHinz
   academia_username:  MartinHinz

@@ -5,7 +5,8 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+$header-font-family: 'Roboto', Helvetica, Arial, sans-serif;
 $base-font-size:   17px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.62;
@@ -50,14 +51,3 @@ $on-laptop:        800px;
         "syntax-highlighting",
         "customise.scss"
 ;
-
-.personal-details {
-    text-align: right;
-    display: block;
-    margin-block-start: 0.67em;
-}
-
-ol.bibliography li {
-  list-style: none;
-  padding-bottom: 1em;
-}
