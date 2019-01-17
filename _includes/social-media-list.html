@@ -10,6 +10,15 @@
   </li>
   {% endif %}
 
+  {% if site.author.humanities_commons_user %}
+  <li>
+    <a itemprop="sameAs" href="https://hcommons.org/members/{{ site.author.humanities_commons_user }}" target="_blank" rel="noopener">
+      <img src="https://hcommons.org/app/plugins/hc-member-profiles/assets/img/hc_july8_smaller.png">
+      <span class="username">@{{ site.author.humanities_commons_user }}</span>
+    </a>
+  </li>
+  {% endif %}
+
   {% if site.author.google_scholar_user %}
   <li>
     <a itemprop="sameAs" href="https://scholar.google.com/citations?user={{ site.author.google_scholar_user }}" target="_blank" rel="noopener">
@@ -22,7 +31,7 @@
 
   {% if site.author.academia_username %}
   <li>
-    <a href="https://uni-kiel.academia.edu/{{ site.author.academia_username }}">
+    <a href="https://unibe-ch.academia.edu/{{ site.author.academia_username }}">
       <i class='ai ai-academia big-icon' style='color:#828282;'></i>
 
       <span class="username">{{ site.author.academia_username }}</span>
