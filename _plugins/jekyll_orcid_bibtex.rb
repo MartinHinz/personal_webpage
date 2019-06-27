@@ -20,7 +20,6 @@ module Jekyll
       bibtex_entries = put_codes.map do |put_code|
         work_url = "https://pub.orcid.org/v2.1/#{orcid}/work/#{put_code}";
         response = JSON.load(open(work_url, 'Accept' => 'application/json'));
-        puts response.to_yaml
         response['citation']['citation-value']
       end
 
