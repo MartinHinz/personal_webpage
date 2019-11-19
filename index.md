@@ -76,3 +76,4 @@ Find more at the [blog section](/blog/)...
 {% include personal_details.html %}
 </div>
 {% endcontentfor %}
+
