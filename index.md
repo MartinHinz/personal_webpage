@@ -46,10 +46,10 @@ I regard quantitative methods as essential for archaeological research. That is 
 <div class="even_row" markdown="1" >
 <div class="pure-u-1 pure-u-md-1-2 l-box" markdown="1" style="margin-left: 25%;">
 
-# Publications (since 2014)
+# Publications (since 2015)
 {: #publications}
 
-{% bibliography --file 0000-0002-9904-6548 --group_by year --group_order descending -q @*[year>=2014] %}
+{% bibliography --file 0000-0002-9904-6548 --group_by year --group_order descending -q @*[year>=2015] %}
 
 For full publication list visit [publications](/publications)
 </div>
