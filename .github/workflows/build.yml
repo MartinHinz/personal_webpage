@@ -18,6 +18,7 @@ jobs:
           ${{ runner.os }}-bundler-
     - name: Install dependencies
       run: |
+        bundle update --bundler
         bundle install --path=vendor/bundle
     - name: Build site
       run: bundle exec jekyll build --profile --trace
