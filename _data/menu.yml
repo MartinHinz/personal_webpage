@@ -1,6 +1,8 @@
 primary:
   - title: About me
     url: "/#about_me"
+  - title: CV
+    url: https://martinhinz.github.io/cv/
   - title: Publications
     url: "/#publications"
   - title: Projects
