@@ -1,0 +1,1248 @@
+I"v�<div class="odd_row about_me">
+
+  <h1 id="about-me">About me</h1>
+
+  <p>I am an archaeologist whose research focuses on prehistoric archaeology, currently on the Neolithic of northern Central Europe / South Scandinavia, and of the Swiss lakeshore settlements. I am very interested in human-environmental interactions and the questions of population development in the Neolithic and Bronze Age.</p>
+
+  <p>I received my PhD from <a href="http://www.uni-kiel.de">Kiel University</a> within the <a href="http://www.gshdl.uni-kiel.de">Graduate School ‘Human Development in Landscape’</a> in 2011. Until 2016 I was Assistent Coordinator at the <a href="http://www.monument.ufg.uni-kiel.de/">DFG Priority Programme 1400 ‘Early Monumentality and Social Differentiation’</a>. From 2016-2018 I worked as postdoc in the <a href="https://www.sfb1266.uni-kiel.de/en/projects/cluster-f/f1-supra-regional-crises">Project F1</a> of the <a href="https://www.sfb1266.uni-kiel.de">CRC1266 “Scales of Transformation”</a>. Currently I am a senior researcher (Oberassistent) at the <a href="http://www.iaw.unibe.ch/">Institute for Archaeological Sciences (IAW)</a> at the University of Bern.</p>
+
+  <p>I regard quantitative methods as essential for archaeological research. That is why they represent a substantial aspect of my toolkit. This includes statistical analysis, spatial technologies (including GIS and spatial statistics), and dynamic modeling. You may find some <a href="/screencasts/">screencasts</a> and other <a href="/blog/">posts</a> regarding statistical method on this website. One other main aspect is Open Data. I am leading developer of <a href="http://radon.ufg.uni-kiel.de">RADON</a> and <a href="http://radon-b.ufg.uni-kiel.de">RADON-B</a>, which are among the largest repositories for <sup>14</sup>C data for archaeology.</p>
+
+  <div class="pure-g">
+<div class="pure-u-1 pure-u-lg-1-2 l-box">
+
+      <h2 id="interests">Interests:</h2>
+      <ul>
+        <li>Archaeology of the Neolithic and early Bronze Age</li>
+        <li>Quantitative methods and statistics</li>
+        <li>Theoretical archaeology</li>
+        <li>Lakeshore settlements (‘Pile Dwellings’)</li>
+        <li>Megalithic</li>
+        <li>Radiocarbon dates</li>
+        <li>Demographic analysis</li>
+        <li>Agent based simulations</li>
+        <li>Predictive modelling/mapping</li>
+        <li>Spatial Statistics/Simulations</li>
+        <li>Software development for archaeological applications</li>
+        <li>Reproducible research &amp; Open science</li>
+      </ul>
+    </div>
+
+<div class="pure-u-1 pure-u-lg-1-2 l-box">
+      <h2 id="education">Education:</h2>
+
+      <ul>
+        <li>MA in Archaeology, 2008
+          <ul>
+            <li>Kiel University</li>
+          </ul>
+        </li>
+        <li>PhD in Archaeology, 2011
+          <ul>
+            <li>Kiel University</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+</div>
+
+</div>
+
+<div class="even_row">
+  <div class="pure-u-1 pure-u-md-1-2 l-box" style="margin-left: 25%;">
+
+    <h1 id="publications">Publications (since 2015)</h1>
+
+    <h2 class="bibliography">2020</h2>
+    <ol class="bibliography"><li><div class="text-justify"><span id="Brunner_2020">Brunner, M., von Felten, J., Hinz, M., &amp; Hafner, A. (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. <i>PLOS ONE</i>, <i>15</i>(12), e0243719. https://doi.org/10.1371/journal.pone.0243719</span></div>
+<button class="button0" onclick="toggleBibtexBrunner_2020()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1371/journal.pone.0243719"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="aBrunner_2020" style="display: none;">
+<pre>@article{Brunner_2020,
+  doi = {10.1371/journal.pone.0243719},
+  url = {https://doi.org/10.1371%2Fjournal.pone.0243719},
+  year = {2020},
+  month = dec,
+  publisher = {Public Library of Science ({PLoS})},
+  volume = {15},
+  number = {12},
+  pages = {e0243719},
+  author = {Brunner, Mirco and von Felten, Jonas and Hinz, Martin and Hafner, Albert},
+  editor = {Biehl, Peter F.},
+  title = {Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating},
+  journal = {{PLOS} {ONE}}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexBrunner_2020(parameter) {
+    var x= document.getElementById('aBrunner_2020');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="hinz_sensitivity_2020">Hinz, M. (2020). Sensitivity of Radiocarbon Sum Calibration. <i>Journal of Computer Applications in Archaeology</i>, <i>3</i>(1), 238–252. https://doi.org/10.5334/jcaa.53</span></div>
+<button class="button0" onclick="toggleBibtexhinz_sensitivity_2020()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.5334/jcaa.53"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="ahinz_sensitivity_2020" style="display: none;">
+<pre>@article{hinz_sensitivity_2020,
+  title = {Sensitivity of {Radiocarbon} {Sum} {Calibration}},
+  volume = {3},
+  copyright = {Authors who publish with this journal agree to the following terms:    Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  All third-party images reproduced on this journal are shared under Educational Fair Use. For more information on  Educational Fair Use , please see  this useful checklist prepared by Columbia University Libraries .   All copyright  of third-party content posted here for research purposes belongs to its original owners.  Unless otherwise stated all references to characters and comic art presented on this journal are ©, ® or ™ of their respective owners. No challenge to any owner’s rights is intended or should be inferred.},
+  issn = {2514-8362},
+  url = {http://journal.caa-international.org/articles/10.5334/jcaa.53/},
+  doi = {10.5334/jcaa.53},
+  language = {en},
+  number = {1},
+  urldate = {2020-08-13},
+  journal = {Journal of Computer Applications in Archaeology},
+  author = {Hinz, Martin},
+  month = aug,
+  year = {2020},
+  note = {Number: 1
+  Publisher: Ubiquity Press},
+  keywords = {Calibration, Population proxies, Prehistoric demography, Reproducible Research, Simulation, Summed radiocarbon date distributions},
+  pages = {238--252}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhinz_sensitivity_2020(parameter) {
+    var x= document.getElementById('ahinz_sensitivity_2020');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="schirrmacher_spatial_2020">Schirrmacher, J., Kneisel, J., Knitter, D., Hamer, W., Hinz, M., Schneider, R. R., &amp; Weinelt, M. (2020). Spatial patterns of temperature, precipitation, and settlement dynamics on the Iberian Peninsula during the Chalcolithic and the Bronze Age. <i>Quaternary Science Reviews</i>, <i>233</i>, 1–17. https://doi.org/10.1016/j.quascirev.2020.106220</span></div>
+<button class="button0" onclick="toggleBibtexschirrmacher_spatial_2020()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1016/j.quascirev.2020.106220"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="aschirrmacher_spatial_2020" style="display: none;">
+<pre>@article{schirrmacher_spatial_2020,
+  title = {Spatial patterns of temperature, precipitation, and settlement dynamics on the {Iberian} {Peninsula} during the {Chalcolithic} and the {Bronze} {Age}},
+  volume = {233},
+  issn = {0277-3791},
+  url = {http://www.sciencedirect.com/science/article/pii/S0277379119310182},
+  doi = {10.1016/j.quascirev.2020.106220},
+  language = {en},
+  urldate = {2020-02-25},
+  journal = {Quaternary Science Reviews},
+  author = {Schirrmacher, Julien and Kneisel, Jutta and Knitter, Daniel and Hamer, Wolfgang and Hinz, Martin and Schneider, Ralph R. and Weinelt, Mara},
+  month = apr,
+  year = {2020},
+  keywords = {4.2 ka BP event, Bronze Age, Chalcolithic, Data analysis, Holocene, Iberian Peninsula, Paleoclimatology, Precipitation, Seasonality, Temperature},
+  pages = {1--17}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexschirrmacher_spatial_2020(parameter) {
+    var x= document.getElementById('aschirrmacher_spatial_2020');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="hafner_introduction_2020">Hafner, A., Hinz, M., Mazurkevich, A. N., Dolbunova, E. V., &amp; Pranckenaite, E. (2020). Introduction: Neolithic and Bronze Age pile dwellings in Europe. In A. Hafner, E. Dolbunova, A. Mazurkevich, E. Pranckenaite, &amp; M. Hinz (Eds.), <i>Settling waterscapes in Europe The archaeology of Neolithic and Bronze Age pile-dwellings.</i> (Vol. 1, pp. 1–6). Propylaeum.</span></div>
+<button class="button0" onclick="toggleBibtexhafner_introduction_2020()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="ahafner_introduction_2020" style="display: none;">
+<pre>@incollection{hafner_introduction_2020,
+  address = {Bern and Heidelberg},
+  series = {Open {Series} in {Prehistoric} {Archaeology}},
+  title = {Introduction: {Neolithic} and {Bronze} {Age} pile dwellings in {Europe}},
+  isbn = {978-3-948465-83-4},
+  language = {English},
+  volume = {1},
+  booktitle = {Settling waterscapes in {Europe} {The} archaeology of {Neolithic} and {Bronze} {Age} pile-dwellings.},
+  publisher = {Propylaeum},
+  author = {Hafner, Albert and Hinz, Martin and Mazurkevich, Andrey N. and Dolbunova, Ekaterina V. and Pranckenaite, Elena},
+  editor = {Hafner, Albert and Dolbunova, Ekaterina and Mazurkevich, Andrey and Pranckenaite, Elena and Hinz, Martin},
+  year = {2020},
+  pages = {1--6}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhafner_introduction_2020(parameter) {
+    var x= document.getElementById('ahafner_introduction_2020');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="hafner_settling_2020">Hafner, A., Dolbunova, E., Mazurkevich, A., Pranckenaite, E., &amp; Hinz, M. (Eds.). (2020). <i>Settling waterscapes in Europe The archaeology of Neolithic and Bronze Age pile-dwellings.</i> (Vol. 1). Propylaeum.</span></div>
+<button class="button0" onclick="toggleBibtexhafner_settling_2020()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="ahafner_settling_2020" style="display: none;">
+<pre>@book{hafner_settling_2020,
+  address = {Bern and Heidelberg},
+  series = {Open {Series} in {Prehistoric} {Archaeology}},
+  title = {Settling waterscapes in {Europe} {The} archaeology of {Neolithic} and {Bronze} {Age} pile-dwellings.},
+  isbn = {978-3-948465-83-4},
+  language = {English},
+  volume = {1},
+  publisher = {Propylaeum},
+  editor = {Hafner, Albert and Dolbunova, Ekaterina and Mazurkevich, Andrey and Pranckenaite, Elena and Hinz, Martin},
+  year = {2020}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhafner_settling_2020(parameter) {
+    var x= document.getElementById('ahafner_settling_2020');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+    <h2 class="bibliography">2019</h2>
+    <ol class="bibliography"><li><div class="text-justify"><span id="hinz_chalcolithicbronze_2019">Hinz, M., Schirrmacher, J., Kneisel, J., Rinne, C., &amp; Weinelt, M. (2019). The Chalcolithic–Bronze Age transition in southern Iberia under the influence of the 4.2 kyr event? A correlation of climatological and demographic proxies. <i>Journal of Neolithic Archaeology</i>, <i>21</i>, 1–26. https://doi.org/10.12766/jna.2019.1</span></div>
+<button class="button0" onclick="toggleBibtexhinz_chalcolithicbronze_2019()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.12766/jna.2019.1"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="ahinz_chalcolithicbronze_2019" style="display: none;">
+<pre>@article{hinz_chalcolithicbronze_2019,
+  title = {The {Chalcolithic}–{Bronze} {Age} transition in southern {Iberia} under the influence of the 4.2 kyr event? {A} correlation of climatological and demographic proxies},
+  volume = {21},
+  issn = {2197-649X},
+  shorttitle = {The {Chalcolithic}–{Bronze} {Age} transition in southern {Iberia} under the influence of the 4.2 kyr event?},
+  url = {http://www.jna.uni-kiel.de/index.php/jna/article/view/170},
+  doi = {10.12766/jna.2019.1},
+  language = {en-US},
+  urldate = {2019-12-17},
+  journal = {Journal of Neolithic Archaeology},
+  author = {Hinz, Martin and Schirrmacher, Julien and Kneisel, Jutta and Rinne, Christoph and Weinelt, Mara},
+  month = dec,
+  year = {2019},
+  pages = {1--26}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhinz_chalcolithicbronze_2019(parameter) {
+    var x= document.getElementById('ahinz_chalcolithicbronze_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="schmid_c14bazaar:_2019">Schmid, C., Seidensticker, D., &amp; Hinz, M. (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. <i>Journal of Open Source Software</i>. https://doi.org/10.21105/joss.01914</span></div>
+<button class="button0" onclick="toggleBibtexschmid_c14bazaar:_2019()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.21105/joss.01914"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="aschmid_c14bazaar:_2019" style="display: none;">
+<pre>@article{schmid_c14bazaar:_2019,
+  title = {c14bazAAR: {An} {R} package for downloading and preparing {C}14 dates from different source databases},
+  shorttitle = {c14bazAAR},
+  url = {https://joss.theoj.org},
+  doi = {10.21105/joss.01914},
+  language = {en},
+  urldate = {2019-11-25},
+  journal = {Journal of Open Source Software},
+  author = {Schmid, Clemens and Seidensticker, Dirk and Hinz, Martin},
+  month = nov,
+  year = {2019}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexschmid_c14bazaar:_2019(parameter) {
+    var x= document.getElementById('aschmid_c14bazaar:_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="doi:10.1177/0959683619857223">Feeser, I., Dörfler, W., Kneisel, J., Hinz, M., &amp; Dreibrodt, S. (2019). Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe. <i>The Holocene</i>, <i>0</i>(0), 0959683619857223. https://doi.org/10.1177/0959683619857223</span></div>
+<button class="button0" onclick="toggleBibtexdoi:10.1177/0959683619857223()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1177/0959683619857223"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="adoi:10.1177/0959683619857223" style="display: none;">
+<pre>@article{doi:10.1177/0959683619857223,
+  author = {Feeser, Ingo and Dörfler, Walter and Kneisel, Jutta and Hinz, Martin and Dreibrodt, Stefan},
+  title = {Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe},
+  journal = {The Holocene},
+  volume = {0},
+  number = {0},
+  pages = {0959683619857223},
+  year = {2019},
+  doi = {10.1177/0959683619857223},
+  url = { 
+          https://doi.org/10.1177/0959683619857223
+      
+  },
+  eprint = { 
+          https://doi.org/10.1177/0959683619857223
+      
+  }
+}
+</pre>
+</div>
+<script>
+function toggleBibtexdoi:10.1177/0959683619857223(parameter) {
+    var x= document.getElementById('adoi:10.1177/0959683619857223');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="arponen_environmental_2019">Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., Hinz, M., Knitter, D., Müller-Scheeßel, N., Ott, K., &amp; Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. <i>Archaeological Dialogues</i>, <i>26</i>(01), 1–9. https://doi.org/10.1017/S1380203819000059</span></div>
+<button class="button0" onclick="toggleBibtexarponen_environmental_2019()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1017/S1380203819000059"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="aarponen_environmental_2019" style="display: none;">
+<pre>@article{arponen_environmental_2019,
+  title = {Environmental determinism and archaeology. {Understanding} and evaluating determinism in research design},
+  volume = {26},
+  issn = {1380-2038, 1478-2294},
+  url = {https://www.cambridge.org/core/product/identifier/S1380203819000059/type/journal_article},
+  doi = {10.1017/S1380203819000059},
+  language = {en},
+  number = {01},
+  urldate = {2019-11-19},
+  journal = {Archaeological Dialogues},
+  author = {Arponen, V. P. J. and Dörfler, Walter and Feeser, Ingo and Grimm, Sonja and Groß, Daniel and Hinz, Martin and Knitter, Daniel and Müller-Scheeßel, Nils and Ott, Konrad and Ribeiro, Artur},
+  month = jun,
+  year = {2019},
+  pages = {1--9}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexarponen_environmental_2019(parameter) {
+    var x= document.getElementById('aarponen_environmental_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="stapfer_interdisciplinary_2019">Stapfer, R., Heitz, C., Hinz, M., &amp; Hafner, A. (2019). Interdisciplinary examinations carried out on heterogeneous coarse ceramics from Neolithic lakeside settlements in the Northern Alpine Foreland (3900–3500 BCE): Analysis strategy and preliminary results from a test series using pXRF. <i>Journal of Archaeological Science: Reports</i>, <i>25</i>, 217–238. https://doi.org/10.1016/j.jasrep.2019.03.018</span></div>
+<button class="button0" onclick="toggleBibtexstapfer_interdisciplinary_2019()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1016/j.jasrep.2019.03.018"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="astapfer_interdisciplinary_2019" style="display: none;">
+<pre>@article{stapfer_interdisciplinary_2019,
+  title = {Interdisciplinary examinations carried out on heterogeneous coarse ceramics from {Neolithic} lakeside settlements in the {Northern} {Alpine} {Foreland} (3900–3500 {BCE}): {Analysis} strategy and preliminary results from a test series using {pXRF}},
+  volume = {25},
+  issn = {2352-409X},
+  shorttitle = {Interdisciplinary examinations carried out on heterogeneous coarse ceramics from {Neolithic} lakeside settlements in the {Northern} {Alpine} {Foreland} (3900–3500 {BCE})},
+  url = {http://www.sciencedirect.com/science/article/pii/S2352409X18307181},
+  doi = {10.1016/j.jasrep.2019.03.018},
+  urldate = {2019-05-08},
+  journal = {Journal of Archaeological Science: Reports},
+  author = {Stapfer, Regine and Heitz, Caroline and Hinz, Martin and Hafner, Albert},
+  month = jun,
+  year = {2019},
+  keywords = {Neolithic, Northern Alpine Foreland, Pile-dwelling settlements, Pottery, pXRF},
+  pages = {217--238}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexstapfer_interdisciplinary_2019(parameter) {
+    var x= document.getElementById('astapfer_interdisciplinary_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="muller_johannes_diversied_2019">Maria Wunderlich, Johannes Müller, &amp; Martin Hinz. (2019). Diversiﬁed monuments: A chronological framework of the creation of monumental landscapes in prehistoric Europe. In Müller, Johannes, M. Hinz, &amp; Wunderlich, Maria (Eds.), <i>Megaliths – Societies – Landscapes</i> (Number 18, pp. 25–29). Habelt.</span></div>
+<button class="button0" onclick="toggleBibtexmuller_johannes_diversied_2019()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="amuller_johannes_diversied_2019" style="display: none;">
+<pre>@incollection{muller_johannes_diversied_2019,
+  address = {Bonn},
+  series = {Frühe {Monumentalität} und soziale {Differenzierung}},
+  title = {Diversiﬁed monuments: {A} chronological framework of the creation of monumental landscapes in prehistoric {Europe}},
+  isbn = {978-3-7749-4213-4},
+  language = {en},
+  number = {18},
+  urldate = {2019-05-15},
+  booktitle = {Megaliths – {Societies} – {Landscapes}},
+  publisher = {Habelt},
+  author = {{Maria Wunderlich} and {Johannes Müller} and {Martin Hinz}},
+  editor = {{Müller, Johannes} and Hinz, Martin and {Wunderlich, Maria}},
+  year = {2019},
+  pages = {25--29}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexmuller_johannes_diversied_2019(parameter) {
+    var x= document.getElementById('amuller_johannes_diversied_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="muller_johannes_megaliths_2019">Müller, Johannes, Hinz, M., &amp; Wunderlich, Maria. (2019). <i>Megaliths – Societies – Landscapes</i> (Number 18). Habelt.</span></div>
+<button class="button0" onclick="toggleBibtexmuller_johannes_megaliths_2019()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="amuller_johannes_megaliths_2019" style="display: none;">
+<pre>@book{muller_johannes_megaliths_2019,
+  address = {Bonn},
+  series = {Frühe {Monumentalität} und soziale {Differenzierung}},
+  title = {Megaliths – {Societies} – {Landscapes}},
+  isbn = {978-3-7749-4213-4},
+  language = {en},
+  number = {18},
+  urldate = {2019-05-15},
+  publisher = {Habelt},
+  author = {{Müller, Johannes} and Hinz, Martin and {Wunderlich, Maria}},
+  year = {2019}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexmuller_johannes_megaliths_2019(parameter) {
+    var x= document.getElementById('amuller_johannes_megaliths_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="muller_johannes_monumentalisation_2019">Martin Hinz, Johannes Müller, &amp; Maria Wunderlich. (2019). The monumentalisation of European landscapes. In Müller, Johannes, M. Hinz, &amp; Wunderlich, Maria (Eds.), <i>Megaliths – Societies – Landscapes</i> (Number 18, pp. 21–23). Habelt.</span></div>
+<button class="button0" onclick="toggleBibtexmuller_johannes_monumentalisation_2019()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="amuller_johannes_monumentalisation_2019" style="display: none;">
+<pre>@incollection{muller_johannes_monumentalisation_2019,
+  address = {Bonn},
+  series = {Frühe {Monumentalität} und soziale {Differenzierung}},
+  title = {The monumentalisation of {European} landscapes},
+  isbn = {978-3-7749-4213-4},
+  language = {en},
+  number = {18},
+  urldate = {2019-05-15},
+  booktitle = {Megaliths – {Societies} – {Landscapes}},
+  publisher = {Habelt},
+  author = {{Martin Hinz} and {Johannes Müller} and {Maria Wunderlich}},
+  editor = {{Müller, Johannes} and Hinz, Martin and {Wunderlich, Maria}},
+  year = {2019},
+  pages = {21--23}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexmuller_johannes_monumentalisation_2019(parameter) {
+    var x= document.getElementById('amuller_johannes_monumentalisation_2019');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+    <h2 class="bibliography">2018</h2>
+    <ol class="bibliography"><li><div class="text-justify"><span id="schmid_c14bazaar:_2018">Schmid, C., Seidensticker, D., Knitter, D., Hinz, M., Matzig, D., Hamer, W., &amp; Schmütz, K. (2018). <i>c14bazAAR: Download and Prepare C14 Dates from Different Source Databases</i>. https://CRAN.R-project.org/package=c14bazAAR</span></div>
+<button class="button0" onclick="toggleBibtexschmid_c14bazaar:_2018()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aschmid_c14bazaar:_2018" style="display: none;">
+<pre>@misc{schmid_c14bazaar:_2018,
+  title = {c14bazAAR: {Download} and {Prepare} {C}14 {Dates} from {Different} {Source} {Databases}},
+  copyright = {GPL-2 {\textbar} file LICENSE},
+  shorttitle = {c14bazAAR},
+  url = {https://CRAN.R-project.org/package=c14bazAAR},
+  urldate = {2019-01-15},
+  author = {Schmid, Clemens and Seidensticker, Dirk and Knitter, Daniel and Hinz, Martin and Matzig, David and Hamer, Wolfgang and Schmütz, Kay},
+  month = oct,
+  year = {2018}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexschmid_c14bazaar:_2018(parameter) {
+    var x= document.getElementById('aschmid_c14bazaar:_2018');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="mueller-scheessel_mortaar:_2018">Mueller-Scheessel, N., Hinz, M., Schmid, C., Rinne, C., Knitter, D., Hamer, W., Seidensticker, D., Faupel, F., Tietze, C., &amp; Grunert, N. (2018). <i>mortAAR: Analysis of Archaeological Mortality Data</i>. https://CRAN.R-project.org/package=mortAAR</span></div>
+<button class="button0" onclick="toggleBibtexmueller-scheessel_mortaar:_2018()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="amueller-scheessel_mortaar:_2018" style="display: none;">
+<pre>@misc{mueller-scheessel_mortaar:_2018,
+  title = {{mortAAR}: {Analysis} of {Archaeological} {Mortality} {Data}},
+  copyright = {GPL-3 {\textbar} file LICENSE},
+  shorttitle = {{mortAAR}},
+  url = {https://CRAN.R-project.org/package=mortAAR},
+  urldate = {2019-01-15},
+  author = {Mueller-Scheessel, Nils and Hinz, Martin and Schmid, Clemens and Rinne, Christoph and Knitter, Daniel and Hamer, Wolfgang and Seidensticker, Dirk and Faupel, Franziska and Tietze, Carolin and Grunert, Nicole},
+  month = jun,
+  year = {2018}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexmueller-scheessel_mortaar:_2018(parameter) {
+    var x= document.getElementById('amueller-scheessel_mortaar:_2018');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="martin_oxcaar:_2018">Hinz, M., Schmid, C., Knitter, D., &amp; Tietze, C. (2018). <i>oxcAAR: Interface to ’OxCal’ Radiocarbon Calibration</i>. https://CRAN.R-project.org/package=oxcAAR</span></div>
+<button class="button0" onclick="toggleBibtexmartin_oxcaar:_2018()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="amartin_oxcaar:_2018" style="display: none;">
+<pre>@misc{martin_oxcaar:_2018,
+  title = {{oxcAAR}: {Interface} to '{OxCal}' {Radiocarbon} {Calibration}},
+  copyright = {GPL-2 {\textbar} file LICENSE},
+  shorttitle = {{oxcAAR}},
+  url = {https://CRAN.R-project.org/package=oxcAAR},
+  urldate = {2019-01-15},
+  author = {Hinz, Martin and Schmid, Clemens and Knitter, Daniel and Tietze, Carolin},
+  month = feb,
+  year = {2018}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexmartin_oxcaar:_2018(parameter) {
+    var x= document.getElementById('amartin_oxcaar:_2018');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="hinz_hunting_2018">Hinz, M. (2018). From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In A. Haug, L. Käppel, &amp; J. Müller (Eds.), <i>Past Landscapes: The Dynamics of Interaction between Society, Landscape, and Culture</i> (pp. 207–233). Sidestone Press. https://doi.org/10.5281/zenodo.2538016</span></div>
+<button class="button0" onclick="toggleBibtexhinz_hunting_2018()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.5281/zenodo.2538016"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+    <a href="https://www.sidestone.com/books/past-landscapes"><input class="button4" type="button" value="link" /></a>
+
+
+
+<div id="ahinz_hunting_2018" style="display: none;">
+<pre>@incollection{hinz_hunting_2018,
+  address = {Leiden},
+  title = {From {Hunting} to {Herding}? {Aspects} of the {Social} and {Animal} {Landscape} during the {Southern} {Scandinavian} {Neolithic}},
+  shorttitle = {From {Hunting} to {Herding}?},
+  doi = {10.5281/zenodo.2538016},
+  link = {https://www.sidestone.com/books/past-landscapes},
+  language = {en},
+  urldate = {2019-01-15},
+  booktitle = {Past {Landscapes}: {The} {Dynamics} of {Interaction} between {Society}, {Landscape}, and {Culture}},
+  publisher = {Sidestone Press},
+  author = {Hinz, Martin},
+  editor = {Haug, Anette and Käppel, Lutz and Müller, Johannes},
+  year = {2018},
+  pages = {207--233}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhinz_hunting_2018(parameter) {
+    var x= document.getElementById('ahinz_hunting_2018');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="stapfer_portable_2018">Stapfer, R. B., Heitz, C., Hinz, M., &amp; Hafner, A. (2018). Portable Röntgenfluoreszenzanalytik (pXRF): Mit dem "Labor in der Hand" der Vergangenheit auf der Spur. In T. Burri &amp; R. B. Stapfer (Eds.), <i>Naturwissenschaftliche Methoden in der Archäologie</i> (Vol. 75, pp. 136–155). Naturforschende Gesellschaft Bern. https://doi.org/10.7892/boris.126318</span></div>
+<button class="button0" onclick="toggleBibtexstapfer_portable_2018()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.7892/boris.126318"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="astapfer_portable_2018" style="display: none;">
+<pre>@incollection{stapfer_portable_2018,
+  address = {Bern},
+  title = {Portable {Röntgenfluoreszenzanalytik} ({pXRF}): {Mit} dem "{Labor} in der {Hand}" der {Vergangenheit} auf der {Spur}},
+  volume = {75},
+  copyright = {info:eu-repo/semantics/restrictedAccess},
+  shorttitle = {Portable {Röntgenfluoreszenzanalytik} ({pXRF})},
+  url = {http://www.ngbe.ch/},
+  language = {deu},
+  urldate = {2019-05-08},
+  booktitle = {Naturwissenschaftliche {Methoden} in der {Archäologie}},
+  publisher = {Naturforschende Gesellschaft Bern},
+  author = {Stapfer, Regine Barbara and Heitz, Caroline and Hinz, Martin and Hafner, Albert},
+  editor = {Burri, Thomas and Stapfer, Regine Barbara},
+  collaborator = {Stapfer, Regine Barbara and Heitz, Caroline and Hinz, Martin and Hafner, Albert and Burri, Thomas and Stapfer, Regine Barbara},
+  year = {2018},
+  doi = {10.7892/boris.126318},
+  pages = {136--155}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexstapfer_portable_2018(parameter) {
+    var x= document.getElementById('astapfer_portable_2018');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="hinz_putting_2018">Hinz, M., Furholt, M., &amp; Mischka, D. (2018). Putting Things into Practice: Pragmatic Theory and the Exploration of Monumental Landscapes. In A. Haug, L. Käppel, &amp; J. Müller (Eds.), <i>Past Landscapes: The Dynamics of Interaction between Society, Landscape, and Culture</i> (pp. 87–106). Sidestone Press. https://doi.org/10.5281/zenodo.2538019</span></div>
+<button class="button0" onclick="toggleBibtexhinz_putting_2018()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.5281/zenodo.2538019"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+    <a href="https://www.sidestone.com/books/past-landscapes"><input class="button4" type="button" value="link" /></a>
+
+
+
+<div id="ahinz_putting_2018" style="display: none;">
+<pre>@incollection{hinz_putting_2018,
+  address = {Leiden},
+  title = {Putting {Things} into {Practice}: {Pragmatic} {Theory} and the {Exploration} of {Monumental} {Landscapes}},
+  shorttitle = {Putting {Things} into {Practice}},
+  url = {https://doi.org/10.5281/zenodo.2538019},
+  language = {en},
+  urldate = {2019-01-15},
+  booktitle = {Past {Landscapes}: {The} {Dynamics} of {Interaction} between {Society}, {Landscape}, and {Culture}},
+  publisher = {Sidestone Press},
+  author = {Hinz, Martin and Furholt, Martin and Mischka, Doris},
+  editor = {Haug, Anette and Käppel, Lutz and Müller, Johannes},
+  year = {2018},
+  pages = {87--106},
+  doi = {10.5281/zenodo.2538019},
+  link = {https://www.sidestone.com/books/past-landscapes}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhinz_putting_2018(parameter) {
+    var x= document.getElementById('ahinz_putting_2018');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+    <h2 class="bibliography">2017</h2>
+    <ol class="bibliography"><li><div class="text-justify"><span id="dreibrodt_stefan_2017_1186122">Dreibrodt, S., Furholt, M., Hofmann, R., Hinz, M., &amp; Cheben, I. (2017). P-ed-XRF-geochemical signatures of a 7300 year old
+                   Linear Band Pottery house ditch fill at Vráble-
+                   Ve’lké Lehemby, Slovakia - House inhabitation and
+                   post-depositional processes. <i>Quaternary International</i>, <i>438</i>, 131–143. https://doi.org/10.1016/j.quaint.2017.03.054</span></div>
+<button class="button0" onclick="toggleBibtexdreibrodt_stefan_2017_1186122()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1016/j.quaint.2017.03.054"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="adreibrodt_stefan_2017_1186122" style="display: none;">
+<pre>@article{dreibrodt_stefan_2017_1186122,
+  author = {Dreibrodt, Stefan and Furholt, Martin and Hofmann, Robert and Hinz, Martin and Cheben, Ivan},
+  title = {{P-ed-XRF-geochemical signatures of a 7300 year old
+                     Linear Band Pottery house ditch fill at Vráble-
+                     Ve'lké Lehemby, Slovakia - House inhabitation and
+                     post-depositional processes}},
+  journal = {Quaternary International},
+  year = {2017},
+  volume = {438},
+  pages = {131–143},
+  month = apr,
+  doi = {10.1016/j.quaint.2017.03.054},
+  url = {https://doi.org/10.1016/j.quaint.2017.03.054}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexdreibrodt_stefan_2017_1186122(parameter) {
+    var x= document.getElementById('adreibrodt_stefan_2017_1186122');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="rohde_krossa_veronica_2017_1186146">Rohde Krossa, V., Moros, M., Leduc, G., Hinz, M., Blanz, T., &amp; Schneider, R. (2017). Regional climate change and the onset of farming
+                   in northern Germany and southern Scandinavia. <i>The Holocene</i>, <i>27</i>(10), 1589–1599. https://doi.org/10.1177/0959683617702223</span></div>
+<button class="button0" onclick="toggleBibtexrohde_krossa_veronica_2017_1186146()">Bibtex</button>
+
+
+    <a href="http://doi.org/10.1177/0959683617702223"><input class="button1" type="button" value="doi" /></a>
+
+
+
+
+
+
+
+<div id="arohde_krossa_veronica_2017_1186146" style="display: none;">
+<pre>@article{rohde_krossa_veronica_2017_1186146,
+  author = {Rohde Krossa, Veronica and Moros, Matthias and Leduc, Guillaume and Hinz, Martin and Blanz, Thomas and Schneider, Ralph},
+  title = {{Regional climate change and the onset of farming
+                     in northern Germany and southern Scandinavia}},
+  journal = {The Holocene},
+  year = {2017},
+  volume = {27},
+  number = {10},
+  pages = {1589–1599},
+  month = feb,
+  doi = {10.1177/0959683617702223},
+  url = {https://doi.org/10.1177/0959683617702223}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexrohde_krossa_veronica_2017_1186146(parameter) {
+    var x= document.getElementById('arohde_krossa_veronica_2017_1186146');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+    <h2 class="bibliography">2016</h2>
+    <ol class="bibliography"><li><div class="text-justify"><span id="RID:1218180551330-36">Arponen, V. P. J., Mueller, J., Hofmann, R., Furholt, M., Ribeiro, A., Horn, C., &amp; Hinz, M. (2016). Using the Capability Approach to Conceptualise Inequality in Archaeology: the Case of the Late Neolithic Bosnian Site Okolite c. 5200-4600 BCE. <i>Journal of Archaeological Method and Theory</i>, <i>23</i>(2), 541–560.</span></div>
+<button class="button0" onclick="toggleBibtexRID:1218180551330-36()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1218180551330-36" style="display: none;">
+<pre>@article{RID:1218180551330-36,
+  title = {Using the Capability Approach to Conceptualise Inequality in Archaeology: the Case of the Late Neolithic Bosnian Site Okolite c. 5200-4600 BCE},
+  journal = {Journal of Archaeological Method and Theory},
+  year = {2016},
+  author = {Arponen, V. P. J. and Mueller, Johannes and Hofmann, Robert and Furholt, Martin and Ribeiro, Artur and Horn, Christian and Hinz, Martin},
+  volume = {23},
+  number = {2},
+  pages = {541-560}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1218180551330-36(parameter) {
+    var x= document.getElementById('aRID:1218180551330-36');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+    <h2 class="bibliography">2015</h2>
+    <ol class="bibliography"><li><div class="text-justify"><span id="thalheim_modelle_2015">Nakoinz, O., &amp; Hinz, M. (2015). Modelle in der Archäologie. In B. Thalheim &amp; I. Nissen (Eds.), <i>Wissenschaft und Kunst der Modellierung: Kieler Zugang zur Definition, Nutzung und Zukunft</i> (Number 64, pp. 219–250). de Gruyter. https://doi.org/10.5281/zenodo.1185312</span></div>
+<button class="button0" onclick="toggleBibtexthalheim_modelle_2015()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="athalheim_modelle_2015" style="display: none;">
+<pre>@incollection{thalheim_modelle_2015,
+  address = {Berlin},
+  series = {Philosophische {Analyse}},
+  title = {Modelle in der {Archäologie}},
+  isbn = {1-5015-1040-1 978-1-5015-1040-3},
+  url = {https://doi.org/10.5281/zenodo.1185312},
+  number = {64},
+  booktitle = {Wissenschaft und {Kunst} der {Modellierung}: {Kieler} {Zugang} zur {Definition}, {Nutzung} und {Zukunft}},
+  publisher = {de Gruyter},
+  author = {Nakoinz, Oliver and Hinz, Martin},
+  editor = {Thalheim, Bernhard and Nissen, Ivor},
+  year = {2015},
+  pages = {219--250}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexthalheim_modelle_2015(parameter) {
+    var x= document.getElementById('athalheim_modelle_2015');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="RID:1106150846258-23">Müller, J., Hinz, M., &amp; Ulrich, M. (2015). Bell Beakers – chronology, innovation and memory: a multivariate approach. In M. P. Prieto Martinez &amp; L. Salanova (Eds.), <i>The Bell Beaker Transition in Europe: Mobility and local Evolution during the 3rd Millennium BC</i> (pp. 57–68).</span></div>
+<button class="button0" onclick="toggleBibtexRID:1106150846258-23()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1106150846258-23" style="display: none;">
+<pre>@inbook{RID:1106150846258-23,
+  title = {Bell Beakers – chronology, innovation and memory: a multivariate approach},
+  chapter = {},
+  pages = {57-68},
+  publisher = {},
+  year = {2015},
+  author = {Müller, Johannes and Hinz, Martin and Ulrich, Markus},
+  editor = {Prieto Martinez, Maria Pilar and Salanova, Laure},
+  booktitle = {The Bell Beaker Transition in Europe: Mobility and local Evolution during the 3rd Millennium BC},
+  address = {Oxford}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1106150846258-23(parameter) {
+    var x= document.getElementById('aRID:1106150846258-23');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="RID:1106150846259-27">Weinelt, M., Schwab, C., Kneisel, J., &amp; Hinz, M. (2015). Climate and societal change in the western Mediterranean area around 4.2 ka BP. In H. Meller, H. W. Arz, R. Jung, &amp; R. Risch (Eds.), <i>2200 BC - Ein Klimasturz als Ursache für den Zerfall der alten Welt: 7. Mitteldeutscher Archäologentag vom 23. bis 26. Oktober 2014 in Halle</i>.</span></div>
+<button class="button0" onclick="toggleBibtexRID:1106150846259-27()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1106150846259-27" style="display: none;">
+<pre>@inbook{RID:1106150846259-27,
+  title = {Climate and societal change in the western Mediterranean area around 4.2 ka BP},
+  chapter = {},
+  pages = {},
+  publisher = {},
+  year = {2015},
+  author = {Weinelt, Mara and Schwab, Christian and Kneisel, Jutta and Hinz, Martin},
+  editor = {Meller, Harald and Arz, Helge Wolfgang and Jung, Reinhard and Risch, Roberto},
+  booktitle = {2200 BC - Ein Klimasturz als Ursache für den Zerfall der alten Welt: 7. Mitteldeutscher Archäologentag vom 23. bis 26. Oktober 2014 in Halle}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1106150846259-27(parameter) {
+    var x= document.getElementById('aRID:1106150846259-27');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="RID:1106150846259-6">Hage, F., Schafferer, G., &amp; Hinz, M. (2015). Common motivation, different intentions? A multiscalar approach to the megalithic architecture of the Funnel Beaker North Group. In L. Laporte &amp; C. Scarre (Eds.), <i>The Megalithic Architectures of Europe</i>.</span></div>
+<button class="button0" onclick="toggleBibtexRID:1106150846259-6()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1106150846259-6" style="display: none;">
+<pre>@inbook{RID:1106150846259-6,
+  title = {Common motivation, different intentions? A multiscalar approach to the megalithic architecture of the Funnel Beaker North Group},
+  chapter = {},
+  pages = {},
+  publisher = {},
+  year = {2015},
+  author = {Hage, Franziska and Schafferer, Georg and Hinz, Martin},
+  editor = {Laporte, Luc and Scarre, Christopher},
+  booktitle = {The Megalithic Architectures of Europe},
+  address = {Oxford}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1106150846259-6(parameter) {
+    var x= document.getElementById('aRID:1106150846259-6');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="RID:1106150846260-21">Hinz, M. (2015). Growth and Decline? Population dynamics of Funnel beaker societies in the 4th millenium BC. In K. Brink, S. Hydén, K. Jennbert, L. Larsson, &amp; D. Olausson (Eds.), <i>Neolithic Diversities : Perspectives from a conference in Lund, Sweden</i> (Vol. 65, pp. 43–51).</span></div>
+<button class="button0" onclick="toggleBibtexRID:1106150846260-21()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1106150846260-21" style="display: none;">
+<pre>@inbook{RID:1106150846260-21,
+  title = {Growth and Decline? Population dynamics of Funnel beaker societies in the 4th millenium BC},
+  chapter = {},
+  pages = {43-51},
+  publisher = {},
+  year = {2015},
+  author = {Hinz, Martin},
+  editor = {Brink, Kristian and Hydén, Susan and Jennbert, Kristina and Larsson, Lars and Olausson, Deborah},
+  booktitle = {Neolithic Diversities : Perspectives from a conference in Lund, Sweden},
+  series = {Acta Archaeologica Lundensia},
+  volume = {65}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1106150846260-21(parameter) {
+    var x= document.getElementById('aRID:1106150846260-21');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="RID:1106150846260-10">Hinz, M., &amp; Kirleis, W. (2015). Stability in a changing world: insights from settlement intensity patterns and archaeobotany. In L. Laporte &amp; C. Scarre (Eds.), <i>The Megalithic Architectures of Europe</i>.</span></div>
+<button class="button0" onclick="toggleBibtexRID:1106150846260-10()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1106150846260-10" style="display: none;">
+<pre>@inbook{RID:1106150846260-10,
+  title = {Stability in a changing world: insights from settlement intensity patterns and archaeobotany},
+  chapter = {},
+  pages = {},
+  publisher = {},
+  year = {2015},
+  author = {Hinz, Martin and Kirleis, Wiebke},
+  editor = {Laporte, Luc and Scarre, Christopher},
+  booktitle = {The Megalithic Architectures of Europe},
+  address = {Oxford}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1106150846260-10(parameter) {
+    var x= document.getElementById('aRID:1106150846260-10');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="RID:1106150846261-8">Hinz, M., &amp; Müller, J. (2015). The Absolute Speed of Change: Multidimensional Scaling and Innovation Rates. <i>Archaeometry</i>, <i>57</i>(3), 560–581.</span></div>
+<button class="button0" onclick="toggleBibtexRID:1106150846261-8()">Bibtex</button>
+
+
+
+
+
+
+
+
+<div id="aRID:1106150846261-8" style="display: none;">
+<pre>@article{RID:1106150846261-8,
+  title = {The Absolute Speed of Change: Multidimensional Scaling and Innovation Rates},
+  journal = {Archaeometry},
+  year = {2015},
+  author = {Hinz, M. and Müller, J.},
+  volume = {57},
+  number = {3},
+  pages = {560-581}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexRID:1106150846261-8(parameter) {
+    var x= document.getElementById('aRID:1106150846261-8');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+
+    <p>For full publication list visit <a href="/publications">publications</a></p>
+  </div>
+</div>
+
+<h1 id="latest-blog-post">Latest Blog Post</h1>
+
+<ul class="post-list">
+
+  <li>
+    <span class="post-meta">Jan 23, 2017</span>
+      <a href="/jekyll/update/blog/2017/01/23/bayesian_calibration.html">14C Calibration the Bayesian way</a>
+      <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<h1 id="appetizer">Appetizer</h1>
+
+<p>With what follows I want to demonstrate that the basic functionality of Oxcal is reflected in this tiny bit of code:</p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">calf</span><span class="o">&lt;-</span><span class="n">approxfun</span><span class="p">(</span><span class="n">intcal13</span><span class="p">[,</span><span class="m">1</span><span class="p">],</span><span class="n">intcal13</span><span class="p">[,</span><span class="m">2</span><span class="p">])</span><span class="w">
+
+</span><span class="n">likelihood</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">proposal</span><span class="p">){</span><span class="n">dnorm</span><span class="p">(</span><span class="n">calf</span><span class="p">(</span><span class="n">proposal</span><span class="p">),</span><span class="n">bp</span><span class="p">,</span><span class="n">std</span><span class="p">)}</span><span class="w">
+
+</span><span class="c1">#Setup</span><span class="w">
+</span><span class="n">collector</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">bp</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">3600</span><span class="p">;</span><span class="w"> </span><span class="n">std</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">30</span><span class="p">;</span><span class="w"> </span><span class="n">last_prob</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">likelihood</span><span class="p">(</span><span class="n">bp</span><span class="p">)</span><span class="w">
+
+</span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="m">10000</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="n">proposal</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">tail</span><span class="p">(</span><span class="n">collector</span><span class="p">,</span><span class="m">1</span><span class="p">),</span><span class="w"> </span><span class="m">3</span><span class="o">*</span><span class="n">std</span><span class="p">)</span><span class="w">
+  </span><span class="n">proposal_prob</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">likelihood</span><span class="p">(</span><span class="n">proposal</span><span class="p">)</span><span class="w">
+  
+  </span><span class="k">if</span><span class="w"> </span><span class="p">((</span><span class="n">proposal_prob</span><span class="o">/</span><span class="n">last_prob</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">runif</span><span class="p">(</span><span class="m">1</span><span class="p">))</span><span class="w">
+  </span><span class="p">{</span><span class="w">
+    </span><span class="n">last_prob</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">proposal_prob</span><span class="w">
+  </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">proposal</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">tail</span><span class="p">(</span><span class="n">collector</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+  
+  </span><span class="n">collector</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">collector</span><span class="p">,</span><span class="w"> </span><span class="n">proposal</span><span class="p">)</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+
+  </li>
+
+  <li>
+    <span class="post-meta">Jun 3, 2016</span>
+      <a href="/jekyll/update/blog/2016/06/03/simple_calibration.html">14C Calibration 1</a>
+      
+<p>Calibration of <sup>14</sup>C dates is one of the more common tasks an
+archaeologists has to do. I will not go into the details of the details
+why calibration is necessary here (maybe in another post), but I want to
+give in this post and in some follow ups hands on instruction how a
+calibration can be archieved using R. This series will be published also
+at the <a href="https://www.github.com/ISAAKiel">ISAAKiel-Repository</a>.</p>
+
+
+  </li>
+
+  <li>
+    <span class="post-meta">Jun 2, 2016</span>
+      <a href="/jekyll/update/blog/2016/06/02/blog_entry_one.html">Blog Entry Number One</a>
+      
+<p>To get my new website finally online, I want to add something to the blog section. Here in the future mostly stuff should be published that is related to archaeology and statistics using R.</p>
+
+<p>To start I want to add a bit that helps to understand the relationship of several items within a collection of data. To be more specific, how can I explore the correlation of lets say pottery types or in this case animal species in the archaeological remains of different sites. Do specific combination occure regularily, so that it might be the case that they are functional related?</p>
+
+
+  </li>
+
+</ul>
+<p>Find more at the <a href="/blog/">blog section</a>…</p>
+
+<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+
+:ET

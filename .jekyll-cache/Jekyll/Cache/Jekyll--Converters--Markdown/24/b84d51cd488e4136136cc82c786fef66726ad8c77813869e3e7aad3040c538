@@ -1,0 +1,72 @@
+I"B<h1 id="current-projects">Current Projects</h1>
+
+<h2 id="xronos">XRONOS</h2>
+
+<div class="pure-g">
+<div class="pure-u-1-6">
+    <p><img src="/images/xronos_logo.png" alt="" /></p>
+  </div>
+<div class="pure-u-1-6"> &nbsp;
+</div>
+<div class="pure-u-4-6">
+    <p>For the analysis of the development of human societies across time and space, extensive data repositories, especially of absolute dates, are essential. The XRONOS project (SNF IZCOZ0_198153) will create the most comprehensive database for radiometric and dendrochronological dating. Get more information on the <a href="https://xronos.archaeological.science">project website</a>.</p>
+  </div>
+</div>
+
+<h2 id="disclose-the-archaeology-of-wetland-neolithic-dawn">Disclose the Archaeology of Wetland Neolithic (DAWN)</h2>
+<h3 id="expanding-scientific-exchange-between-belarusian-and-swiss-wetland-archaeology-on-the-beginning-of-the-corded-ware-culture">Expanding scientific exchange between Belarusian and Swiss Wetland Archaeology on the beginning of the Corded Ware Culture</h3>
+
+<p>The project DAWN will promote exchange between Swiss and Belarusian archaeology. It will focus on the Kryvina peat-bog, characterized by excellent wood preservation essential for accurate dendrochronological dating. This region is rich in Corded Ware (CWC) finds and can therefore be an important source for understanding this pan-European phenomenon. The survey will be conducted by scientists and students of both institutions and will establish long-term and sustainable cooperation, provide datable material for a more precise chronological determination. It will have the character of a summer school, in which, besides the participating project partners, 12 MA and PhD students from Switzerland and Belarus will have the opportunity to exchange experiences, working methods and approaches. Due to the current situation, the exact implementation depends on the circumstances. We aim for late summer 2021. This project will initialise a long-term exchange between the two countries and provide data for a follow-up research project focused on introducing dendrochronology in Belarus archaeology and the pan-European question of CWC origins.</p>
+
+<h1 id="past-projects">Past Projects</h1>
+<h2 id="project-f1-of-sfb-1266">Project F1 of SFB 1266</h2>
+<h3 id="supra-regional-crises-abrupt-climate-change-and-responses-of-multi-cultural-ancient-societies-in-the-western-mediterranean-area-and-in-southern-central-europe-around-4200-years-bp">Supra-regional crises: Abrupt climate change and responses of (multi-cultural) ancient societies in the western Mediterranean area and in Southern Central Europe around 4200 years BP</h3>
+
+<p>Until 2018 I was employed as PostDoc within the project <a href="http://www.sfb1266.uni-kiel.de/en/projects/cluster-f/f1-supra-regional-crises">F1</a> of the <a href="www.sfb1266.uni-kiel.de">SFB 1266</a>, dealing with the causal relation between the transition from Chalcolithic to Bronze Age (starting with iberia) and the <a href="https://en.wikipedia.org/wiki/4.2_kiloyear_event">4.2ky event</a>.</p>
+
+<h2 id="radon">RADON</h2>
+
+<p>RADON is one of the largest repositories for <sup>14</sup>C dates for prehistoric archaeology worldwide. We collect these data from the literature and from other available ressources to make them easily available for the scientific audience.</p>
+
+<p>While <a href="http://radon.ufg.uni-kiel.de">RADON</a> is dedicated to radiocarbon dates of the Neolithic, its new sister <a href="http://radon.ufg.uni-kiel.de">RADON-B</a> collects dates of the Bronze Age.</p>
+
+<p>I am responsible for the data aquisition for RADON and have developed and maintain the web application for both portals.</p>
+
+<h2 id="isaak">ISAAK</h2>
+
+<p>I am member of the <a href="https://github.com/ISAAKiel">Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)</a>. We develop solutions and tools for computer applications in archaeology, mainly in R. I am actively involved in the following projects</p>
+
+<h3 id="oxcaar-formerly-roxcal">oxcAAR (formerly Roxcal)</h3>
+
+<p>To ease the analysis of <sup>14</sup>C dates I have developed and maintain a R package that serves as interface between R and the programme OxCal, that have established as quasi standard for calibration in archaeological application. The package is currently not available at CRAN, but you may find it at <a href="https://github.com/ISAAKiel/oxcAAR">Github</a>.</p>
+
+<h3 id="mortaar">mortAAR</h3>
+
+<p>We have developed a package that calculates life tables from death records at archaeological sites. The package is also not yet on CRAN, but it will be published there very soon. Meanwile, find it at <a href="https://github.com/ISAAKiel/mortAAR">Github</a>.</p>
+
+<h3 id="aoristaar">aoristAAR</h3>
+
+<p>This is a current project that should introduce <a href="http://dx.doi.org/10.11588/ai.2004.2.12685">aoristic analysis for archaeology</a> as a R toolbox, with correction for overrepresentation due to overlapping time intervals. Currently the main function is already implemented and usable, but the package has to be polished before putting it to CRAN. Find it at <a href="https://github.com/ISAAKiel/aoristAAR">Github</a>.</p>
+
+<h3 id="calibrator">calibrator</h3>
+
+<p>This is a small command line tool, written in C, to do ^14^C calibration based on the algorithm used in <a href="https://github.com/andrewcparnell/Bchron">Bchron</a>.</p>
+
+<h3 id="quantaar">quantaar</h3>
+
+<p>Together with the team of the <a href="https://github.com/ISAAKiel">Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)</a> I am developing an R package that should make a collection of useful functions available for archaeologists. The package is currently not available at CRAN, but you may find it at <a href="https://www.github.com/ISSAKiel/quantaar">Github</a>.</p>
+
+<h2 id="eythra">Eythra</h2>
+
+<p>From 1993 – 2000 a LBK and SBK settlement area measuring 30 ha were excavated in the course of coal opencast mining. It is one of the largest excavated early neolithic settlement sites of central Europe. I developed a web database for this project to cope with the enourmous amount of archaeological data from this excavation and the complexity of analizing them. You may find more information on the project on <a href="http://www.archaeologie.sachsen.de/2382.htm">its web presence</a>.</p>
+
+<h2 id="metdb">MetDB</h2>
+
+<p>The project ‘Mobilities, entanglements and transformations in Neolithic societies on the Swiss Plateau (3900-3500 BC)’ investigates the different phenomena of mobilities, social relationships and cultural entanglements as well as triggered cultural appropriations and transformations or rejections on the basis of ceramic and lithic material from a large number of dendrochronologically well dated swiss and Southern German wetland sites. To host the large amount of information regarding this material I set up a RoR based web application data base for the internal use in this project. More details on the project can be found at <a href="http://www.iaw.unibe.ch/forschung/abt_pa_ufg/mobilities_entanglements_and_transformations/index_ger.html">its web presence</a>.</p>
+
+<h2 id="spp-1400-early-monumentality-and-social-differenciation">SPP 1400 “Early Monumentality and Social Differenciation”</h2>
+
+<p>Within this DFG project we investigated the first farmers of northern central Europe.</p>
+
+<p>Find more details on the <a href="http://www.monument.ufg.uni-kiel.de">project website</a>.</p>
+:ET

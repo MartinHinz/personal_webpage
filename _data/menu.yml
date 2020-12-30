@@ -2,7 +2,7 @@ primary:
   - title: About me
     url: "/#about_me"
   - title: Publications
-    url: "#publications"
+    url: "/#publications"
   - title: Projects
     url: /projects/
   - title: Blog
