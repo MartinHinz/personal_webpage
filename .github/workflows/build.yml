@@ -1,5 +1,6 @@
 name: build
 on: push
+environment: deploy
 jobs:
   build:
     runs-on: ubuntu-latest
