@@ -25,3 +25,13 @@ jobs:
       env:
         JEKYLL_ENV: production
         JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Copy file via scp
+      uses: appleboy/scp-action@master
+      env:
+        HOST: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+      with:
+        source: "."
+        target: "/opt/app"
