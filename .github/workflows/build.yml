@@ -33,5 +33,5 @@ jobs:
         username: ${{ secrets.USERNAME }}
         port: 22
         key: ${{ secrets.KEY }}
-        source: "_site/"
+        source: "_site/*"
         target: "/srv/http/personal_website/htdocs/"
