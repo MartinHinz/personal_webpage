@@ -1,10 +1,10 @@
 primary:
   - title: About me
     url: "/#about_me"
-  - title: CV
-    url: https://martinhinz.github.io/cv/
   - title: Publications
     url: "/#publications"
+  - title: CV
+    url: https://martinhinz.github.io/cv/
   - title: Projects
     url: /projects/
   - title: Blog
