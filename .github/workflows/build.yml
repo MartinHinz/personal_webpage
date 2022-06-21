@@ -36,3 +36,4 @@ jobs:
         source: "_site"
         target: "/srv/http/personal_website/htdocs"
         strip_components: 1
+        overwrite: 1
