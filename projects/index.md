@@ -3,6 +3,18 @@ layout: page
 title: null
 permalink: /projects/
 ---
+
+## ESTER
+
+<div class="pure-g">
+<div class="pure-u-1-5" markdown="1" style="padding-right:20px;">
+![](https://avatars.githubusercontent.com/u/201110619?s=200&v=4)
+</div>
+<div class="pure-u-4-5" markdown="1">
+The ESTER Project (ESTimation of the prehistoric population of Eurasia based on a large number of Records, ERC-2024-COG 101171036) aims to revolutionize population reconstructions by integrating archaeological, palaeoenvironmental, and computational data into a Bayesian Hierarchical State-Space Model. This innovative approach allows us to estimate prehistoric population densities with unprecedented accuracy, incorporating uncertainty quantification and regional variations.
+</div>
+</div>
+
 ## XRONOS
 
 <div class="pure-g">
