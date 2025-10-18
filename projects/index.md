@@ -11,7 +11,7 @@ permalink: /projects/
 ![](https://avatars.githubusercontent.com/u/201110619?s=200&v=4)
 </div>
 <div class="pure-u-4-5" markdown="1">
-The ESTER Project (ESTimation of the prehistoric population of Eurasia based on a large number of Records, ERC-2024-COG 101171036) aims to revolutionize population reconstructions by integrating archaeological, palaeoenvironmental, and computational data into a Bayesian Hierarchical State-Space Model. This innovative approach allows us to estimate prehistoric population densities with unprecedented accuracy, incorporating uncertainty quantification and regional variations.
+The ESTER Project (ESTimation of the prehistoric population of Eurasia based on a large number of Records, ERC-2024-COG 101171036) aims to revolutionize population reconstructions by integrating archaeological, palaeoenvironmental, and computational data into a Bayesian Hierarchical State-Space Model. This innovative approach allows us to estimate prehistoric population densities with unprecedented accuracy, incorporating uncertainty quantification and regional variations. Get more information on the [project website](https://ester-project.org).
 </div>
 </div>
 
@@ -22,7 +22,7 @@ The ESTER Project (ESTimation of the prehistoric population of Eurasia based on 
 ![](/images/xronos_logo.png)
 </div>
 <div class="pure-u-4-5" markdown="1">
-For the analysis of the development of human societies across time and space, extensive data repositories, especially of absolute dates, are essential. The XRONOS project (SNF IZCOZ0_198153) will create the most comprehensive database for radiometric and dendrochronological dating. Get more information on the [project website](https://xronos.archaeological.science).
+For the analysis of the development of human societies across time and space, extensive data repositories, especially of absolute dates, are essential. The XRONOS project (SNF IZCOZ0_198153) will create the most comprehensive database for radiometric and dendrochronological dating. Get more information on the [project website](https://xronos.ch).
 </div>
 </div>
 
