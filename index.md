@@ -7,9 +7,9 @@ title: Martin Hinz
 
 # About me
 
-I am an archaeologist whose research focuses on prehistoric archaeology, working on the prehistory of northern Central Europe / South Scandinavia and the Swiss lakeshore settlements, interested in human-environmental interactions and  population development in the Neolithic and Bronze Age. Currently I am a senior researcher (Oberassistent) at the [Institute for Archaeological Sciences (IAW)](http://www.iaw.unibe.ch/) at the University of Bern.
+I am an archaeologist whose research focuses on prehistoric archaeology, working on the prehistory of northern Central Europe / South Scandinavia and the Swiss and Albanian lakeshore settlements, interested in human-environmental interactions and  population development in the Neolithic and Bronze Age. Currently I am Research Group Leader at the [Institute of Pre- and Protohistoric Archaeology](https://www.ufg.uni-kiel.de) at Kiel University, acting as PI of the ERC Project [ESTER](https://ester-project.org).
 
-I am editor of the [Journal of Neolithic Archaeology](http://www.j-n-a.org) and of the [Journal of Glacial Archaeology](https://journal.equinoxpub.com/JGA), and also member of the editorial board of the [Journal of Computer Applications in Archaeology](https://journal.caa-international.org). I am also convener of the [CAA SIG Scientific Scripting Languages in Archaeology](https://sslarch.github.io/) and secretary of the [CAA National Chapter Switzerland](https://caa-switzerland.ch).
+I am editor of the [Journal of Neolithic Archaeology](http://www.j-n-a.org) and was editor of the [Journal of Glacial Archaeology](https://journal.equinoxpub.com/JGA), and also member of the editorial board of the [Journal of Computer Applications in Archaeology](https://journal.caa-international.org). I act as convener of the [CAA SIG Scientific Scripting Languages in Archaeology](https://sslarch.github.io/) and secretary of the [CAA National Chapter Switzerland](https://caa-switzerland.ch).
 
 I regard quantitative methods as essential for archaeological research. That is why they represent a substantial aspect of my toolkit. This includes statistical analysis, spatial technologies (including GIS and spatial statistics), and dynamic modeling. You may find some [screencasts](/screencasts/) and other [posts](/blog/) regarding statistical method on this website.
 
