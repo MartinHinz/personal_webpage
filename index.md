@@ -36,6 +36,8 @@ I regard quantitative methods as essential for archaeological research. That is 
   * Kiel University
 * PhD in Archaeology, 2011
   * Kiel University
+* PD (Habilitation) in Prehistoric Archaeology and Digital Humanities, 2025
+  * University of Bern
 </div>
 </div>
 
